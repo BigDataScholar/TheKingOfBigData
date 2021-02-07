@@ -1,5 +1,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;相信小伙伴们对于Flink一定不会感到陌生，作为**连续三年蝉联第一，荣膺全球最活跃的 Apache 开源项目**，Flink在中国的热度也一直是居高不下。近几年，在社区的推动下，Flink 技术栈在越来越多的公司开始得到应用，因此**在大数据的求职招聘中，对于Flink的着重考察也变得越来越重要**。本期文章，菌哥就带大家来总结一下，在面试过程中，Flink常被问到的知识点有哪些？如果本文对你有帮助，记得在看完之后，一键三连(✧◡✧)
+
 ![](https://img-blog.csdnimg.cn/20210126133106608.jpg?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
+
+
 
 ***
 ## 1、应用架构
@@ -108,14 +111,19 @@ bin/yarn-session.sh -n 7 -s 8 -jm 3072 -tm 32768 -qu root.*.* -nm *-* -d
  ## 彩蛋
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为了能鼓励大家多学会总结，菌在这里贴上自己平时做的思维导图，需要的朋友，可以关注博主个人微信公众号【猿人菌】，后台回复“**思维导图**”即可获取。
 
-![](https://img-blog.csdnimg.cn/20201015101722118.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更有海量面经奉送
-![](https://img-blog.csdnimg.cn/20210126132608386.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
-![](https://img-blog.csdnimg.cn/20200920214945468.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center =200x200)
-<center>
-<marquee>
-<b>
-     <font color="#4169E1">关注即可获取高质量思维导图，互联网一线大厂面经，大数据珍藏精品书籍...期待您的关注!</font>
+![](https://img-blog.csdnimg.cn/20201015101722118.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+​      更有海量面经奉送
+
+![](https://img-blog.csdnimg.cn/20210126132608386.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center) 
+
+
+![](https://img-blog.csdnimg.cn/20200920214945468.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
+
+
+
+
 
 
 
