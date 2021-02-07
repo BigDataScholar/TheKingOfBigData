@@ -2,8 +2,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;众所周知，Hadoop 提供了命令行接口，对HDFS中的文件进行管理操作，如<font color='	Tomato'>**读取文件**、**新建目录**、**移动文件**、**复制文件**、**删除目录**、**上传文件**、**下载文件**、**列出目录**</font>等。本期文章，菌哥打算为大家详细介绍 Hadoop 的命令行接口！希望大家看完之后，能够有所收获
 |ू･ω･` )
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210119134752287.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HDFS命令行的格式如下所示：
 
