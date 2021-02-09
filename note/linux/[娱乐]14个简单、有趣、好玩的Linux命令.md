@@ -1,8 +1,6 @@
-前言
+## 前言
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;相信大家对于linux常用的命令一定都不陌生，但是一些简单，好玩，有趣，虽然可能没有实际作用的命令，你又有了解多少呢？话不多说，本期文章为大家带来15个好玩的linux命令，希望大家能够喜欢！
-
-![](https://img-blog.csdnimg.cn/20201220005719743.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
 ## 1、sl 命令
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;你会看到一辆火车从屏幕右边开往左边……
