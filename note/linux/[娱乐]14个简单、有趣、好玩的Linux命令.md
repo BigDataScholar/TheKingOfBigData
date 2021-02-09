@@ -23,6 +23,7 @@ sudo apt-get install sl
 sudo apt-get install fortune
 ```
 ![](https://img-blog.csdnimg.cn/20201213232146512.png)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这些都是英文的，如果你想看中国的唐诗三百首，则需要再安装：
 
 ```powershell
