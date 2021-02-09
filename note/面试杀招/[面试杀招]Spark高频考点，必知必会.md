@@ -188,8 +188,13 @@ driver-memory —— driver内存大小，默认512M
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## 十三、能介绍下你所知道和使用过的Spark调优吗?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;恐怖如斯，该来的还是会来的，庆幸自己看了菌哥的面试杀招，丝毫不慌：
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201019152811532.gif#pic_center)
+
+
+
 ### 资源参数调优
 
  - num-executors：设置Spark作业总共要用多少个Executor进程来执行
