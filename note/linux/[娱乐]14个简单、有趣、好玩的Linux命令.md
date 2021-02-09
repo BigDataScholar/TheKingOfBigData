@@ -42,8 +42,12 @@ sudo apt install fortune-zh
 sudo apt-get install cowsay
 ```
 ![](https://img-blog.csdnimg.cn/20201213232415607.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;还有一种骚操作是 **cowsay -l 查看其它动物的名字，然后 -f 跟上动物名**，如
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;        还有一种骚操作是 **cowsay -l 查看其它动物的名字，然后 -f 跟上动物名**，如
+
 ![](https://img-blog.csdnimg.cn/20201213232632349.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
+
 ## 4、cmatrix 命令
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这个就很酷，有《黑客帝国》那种矩阵风格的动画效果
 
@@ -54,8 +58,9 @@ sudo apt-get install cmatrix
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运行`cmatrix`命令即可
 
-
 ![](https://img-blog.csdnimg.cn/2020121919542157.gif)
+
+
 
 ## 5、figlet 、toilet命令
 
@@ -68,9 +73,13 @@ sudo apt-get install figlet
 sudo apt-get install toilet
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运行
+
 ![](https://img-blog.csdnimg.cn/2020121323351117.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
-toilet 还可以添加颜色
+
+​         toilet 还可以添加颜色
+
 ![](https://img-blog.csdnimg.cn/20201213233554817.png)
+
 ## 6、 oneko 命令
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;桌面上出现一直喵星人，跟着你的鼠标跑，你不动了它就睡觉。
 
@@ -112,7 +121,9 @@ sudo apt install linuxlogo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们可以查看内置的logo列表：
 
 ![](https://img-blog.csdnimg.cn/20201219193202853.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接下来我们开始利用命令在终端循环打印logo:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;接下来我们开始利用命令在终端循环打印logo:
 
 ```powershell
 for i in {1..30};do linux_logo -f -L $i;sleep 2;done
@@ -129,12 +140,22 @@ for i in {1..30};do linux_logo -f -L $i;sleep 2;done
 sudo apt-get install boxes
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现在我把一段文字不加任何效果输出是这样的
+
 ![](https://img-blog.csdnimg.cn/20201219191704569.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现在加上小猫的图案
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+​       现在加上小猫的图案
+
 ![](https://img-blog.csdnimg.cn/20201219191759933.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;亦或者小狗
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+​        亦或者小狗
+
 ![](https://img-blog.csdnimg.cn/20201219191841251.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小老鼠
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+​      小老鼠
+
 ![](https://img-blog.csdnimg.cn/20201219192034555.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更多的效果就不展示了，等待着你们去发现~
 
@@ -218,7 +239,7 @@ sudo apt-get install byobu
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;然后通过这个命令`hollywood`即可欣赏到一个炫酷的界面
 
-![20201220003808716](F:\github\20201220003808716.gif)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201220003808716.gif)
 ***
 
 ## 小结
