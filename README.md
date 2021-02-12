@@ -46,7 +46,6 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
- 
 ## 文章目录
 
 
@@ -81,13 +80,33 @@
 
 
 
+
+
+
+
 ### 程序人生
 
 
 
+## 其他
 
 
 
+### 联系我
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210212133943925.jpg?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
+
+
+
+
+
+### 公众号
+
+
+如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号**猿人菌**
+
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210212133657263.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
 
 
