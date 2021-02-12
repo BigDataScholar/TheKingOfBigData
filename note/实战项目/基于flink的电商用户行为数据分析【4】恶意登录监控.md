@@ -1,7 +1,6 @@
 ## 前言
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在上一期内容中，菌哥已经为大家介绍了实时热门商品统计模块的功能开发的过程(👉[基于flink的电商用户行为数据分析【3】| 实时流量统计](https://alice.blog.csdn.net/article/details/110212749)）。本期文章，我们需要学习的是**恶意登录监控**模块功能的开发过程。
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/202011281936211.png?,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
 ## 模块创建和数据准备
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;继续在`UserBehaviorAnalysis`下新建一个 maven module作为子项目，命名为`LoginFailDetect`。在这个子模块中，我们将会用到flink的`CEP`库来实现**事件流的模式匹配**，所以需要在pom文件中引入CEP的相关依赖：

@@ -1,5 +1,4 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本篇是flink 的「电商用户行为数据分析」的第 9 篇文章，也是该系列的最后一篇，为大家带来**电商常见的指标汇总**和**对前8篇文章做一个的阶段性的总结**，并融入一些**我自己的思考**，希望大家能够从中受益，感谢阅读！
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201214233116609.jpg?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 ***
 
 ## 电商指标整理

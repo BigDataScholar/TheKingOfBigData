@@ -2,7 +2,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在上一期内容中，菌哥已经为大家介绍了实时热门商品统计模块的功能开发的过程(👉[基于flink的电商用户行为数据分析【2】| 实时热门商品统计](https://alice.blog.csdn.net/article/details/110024317))。本期文章，我们要学习的是**实时流量统计**模块的开发过程。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201127004555171.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
 
 ***
 

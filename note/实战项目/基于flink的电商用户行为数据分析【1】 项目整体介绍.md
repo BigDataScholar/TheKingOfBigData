@@ -1,7 +1,6 @@
 ## 前言
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;愉悦的一周又要开始了，本周菌哥打算用几期文章为大家分享一个之前在B站自学的一个项目——**基于flink的电商用户行为数据分析**。本期我们先对项目整体功能和模块做一个介绍。
 
-![](https://img-blog.csdnimg.cn/20201122214853728.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
 
 ***
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;正式介绍项目整体之前，我们来探讨一下批处理和流处理技术。

@@ -1,6 +1,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本篇是flink 的「电商用户行为数据分析」的第 8 篇文章，为大家带来的是**市场营销商业指标统计分析**之**订单支付实时监控**的内容！通过本期内容，我们可以实现通过使用**CEP**和**Process Function**来实现`订单支付实时监控`的功能，还能学会通过**connect** 和 **join**来实现`flink双流join`的功能，可谓干货满满！受益的朋友记得三连支持一下 ~
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201213001243897.jpg?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
 ***
 
 ## 订单支付实时监控

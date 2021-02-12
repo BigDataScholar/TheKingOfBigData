@@ -1,6 +1,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本篇是flink 的「电商用户行为数据分析」的第 7 篇文章，为大家带来的是**市场营销商业指标统计分析**之**页面广告分析**的内容。通过本期内容，我们可以实现**页面广告点击量统计**和**黑名单过滤**的功能。
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2020121214583384.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
 ***
 

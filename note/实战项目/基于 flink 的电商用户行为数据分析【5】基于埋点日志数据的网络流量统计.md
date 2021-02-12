@@ -1,8 +1,7 @@
 ## 前言
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在[《基于flink的电商用户行为数据分析【3】| 实时流量统计》](https://alice.blog.csdn.net/article/details/110212749)这篇文章中，博主为大家介绍了基于服务器 log 的热门页面浏览量统计。 最后通过运行结果的验证，我们发现，从 web 服务器 log 中得到的 url，往往更多的是请求某个资源地址（`/*.js`、`/*.css`），如果要针对页面进行统计往往还需要进行过滤。而在实际电商应用中，**相比每个单独页面的访问量，我们可能更加关心整个电商网站的网络流量**。这个指标，除了合并之前每个页面的统计结果之外，还可以通过统计埋点日志数据中的“pv”行为来得到....
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201205103159973.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ***
 ### 网站总浏览量（PV）的统计

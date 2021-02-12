@@ -2,7 +2,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在上一期内容中，菌哥已经为大家介绍了**电商用户行为数据分析**的主要功能和模块介绍。本期内容，我们需要介绍的是**实时热门商品统计**模块的功能开发。
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201124234915283.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
 
 ***
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先要实现的是实时热门商品统计，我们将会基于**UserBehavior**数据集来进行分析。

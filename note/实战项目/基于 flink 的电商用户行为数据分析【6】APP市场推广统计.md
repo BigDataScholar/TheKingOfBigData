@@ -1,7 +1,6 @@
 ## 前言
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本篇是flink 的「电商用户行为数据分析」的第6篇文章，为大家带来的是**市场营销商业指标统计分析**之**APP市场推广统计**的内容，通过本期内容的学习，你同样能够学会处理一些特定场景领域下的方法。话不多说，我们直入正题！
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201212002928498.jpg?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
 ***
 ## 模块创建和数据准备
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;继续在`UserBehaviorAnalysis`下新建一个**maven module**作为子项目，命名为`MarketAnalysis`。
