@@ -20,10 +20,10 @@
     <a href="#微信" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/WeChat-%E5%85%AC%E4%BC%97%E5%8F%B7-green" alt="公众号" />
     </a>
-    <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAA1ddQa0qBdony54kzsuJEh4SofJyzbv-u_uIXh4EMf4EIlPILAOy4YrRpoeGXYMkJ/" target="_blank" style="text-decoration:none;">
+    <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAApUaLMY1dYkkFhLGE-dS_wi3ndYleYYTNbtwsQd_Ah8A/" target="_blank" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/toutiao-%E5%A4%B4%E6%9D%A1-red" alt="头条" />
     </a>
-    <a href="https://www.zhihu.com/people/ting-feng-92-52-29" target="_blank" style="text-decoration:none;">
+    <a href="https://www.zhihu.com/people/a-li-bu-chi-yu-79/posts" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue" alt="知乎" />
     </a>
     <a href="https://my.oschina.net/u/4917371" target="_blank" style="text-decoration:none;">
