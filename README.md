@@ -46,7 +46,6 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
-
 ## 文章目录
 
 
@@ -55,42 +54,71 @@
 
 ### Linux
 
+1. [[娱乐]14个简单、有趣、好玩的Linux命令](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/linux/%5B%E5%A8%B1%E4%B9%90%5D14%E4%B8%AA%E7%AE%80%E5%8D%95%E3%80%81%E6%9C%89%E8%B6%A3%E3%80%81%E5%A5%BD%E7%8E%A9%E7%9A%84Linux%E5%91%BD%E4%BB%A4.md)
 
+### Shell
+
+1. [Shell进阶必会的几个工具，你都掌握了吗(附真实企业面试题)](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/shell/Shell%E8%BF%9B%E9%98%B6%E5%BF%85%E4%BC%9A%E7%9A%84%E5%87%A0%E4%B8%AA%E5%B7%A5%E5%85%B7%EF%BC%8C%E4%BD%A0%E9%83%BD%E6%8E%8C%E6%8F%A1%E4%BA%86%E5%90%97(%E9%99%84%E7%9C%9F%E5%AE%9E%E4%BC%81%E4%B8%9A%E9%9D%A2%E8%AF%95%E9%A2%98).md)
+
+2. [零基础小白如何入门Shell，快来看看(收藏)这篇大总结](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/shell/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%B0%8F%E7%99%BD%E5%A6%82%E4%BD%95%E5%85%A5%E9%97%A8Shell%EF%BC%8C%E5%BF%AB%E6%9D%A5%E7%9C%8B%E7%9C%8B(%E6%94%B6%E8%97%8F)%E8%BF%99%E7%AF%87%E5%A4%A7%E6%80%BB%E7%BB%93.md)
 
 ### Hdfs
 
+1. [[干货]HDFS常用的40个命令](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hdfs/%5B%E5%B9%B2%E8%B4%A7%5DHDFS%E5%B8%B8%E7%94%A8%E7%9A%8440%E4%B8%AA%E5%91%BD%E4%BB%A4.md)
 
 
 ### Hive
 
-
-
-
-
-
-
-
+1. [Hive查询的18种方式，你都学会了吗](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hive/Hive%E6%9F%A5%E8%AF%A2%E7%9A%8418%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%8C%E4%BD%A0%E9%83%BD%E5%AD%A6%E4%BC%9A%E4%BA%86%E5%90%97.md)
+2. [[干货]关于Hive命令的7个小技巧](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hive/%5B%E5%B9%B2%E8%B4%A7%5D%E5%85%B3%E4%BA%8EHive%E5%91%BD%E4%BB%A4%E7%9A%847%E4%B8%AA%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
 
 ### Flink
 
+1. [FlinkSQL流处理中的特殊概念](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/flink/FlinkSQL%E6%B5%81%E5%A4%84%E7%90%86%E4%B8%AD%E7%9A%84%E7%89%B9%E6%AE%8A%E6%A6%82%E5%BF%B5.md)
 
+2. [干货-13道精选Flink面试题](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/flink/%E5%B9%B2%E8%B4%A7-13%E9%81%93%E7%B2%BE%E9%80%89Flink%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 
 
 ### [大数据实战]电商用户行为数据分析
 
+1. [[用户画像]开发性能调优](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%5B%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%5D%E5%BC%80%E5%8F%91%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98.md)
+
+2. [[超硬核]一文带你入门用户画像](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%5B%E8%B6%85%E7%A1%AC%E6%A0%B8%5D%E4%B8%80%E6%96%87%E5%B8%A6%E4%BD%A0%E5%85%A5%E9%97%A8%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F.md)
+
+3. [基于flink的电商用户行为数据分析【1】项目整体介绍](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E5%9F%BA%E4%BA%8Eflink%E7%9A%84%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E3%80%901%E3%80%91%20%E9%A1%B9%E7%9B%AE%E6%95%B4%E4%BD%93%E4%BB%8B%E7%BB%8D.md)
+
+4. [基于flink的电商用户行为数据分析【2】实时热门商品统计](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E5%9F%BA%E4%BA%8Eflink%E7%9A%84%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E3%80%902%E3%80%91%E5%AE%9E%E6%97%B6%E7%83%AD%E9%97%A8%E5%95%86%E5%93%81%E7%BB%9F%E8%AE%A1.md)
+
+5. [基于flink的电商用户行为数据分析【3】实时流量统计](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E5%9F%BA%E4%BA%8Eflink%E7%9A%84%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E3%80%903%E3%80%91%E5%AE%9E%E6%97%B6%E6%B5%81%E9%87%8F%E7%BB%9F%E8%AE%A1.md)
+6. [基于flink的电商用户行为数据分析【4】恶意登录监控](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E5%9F%BA%E4%BA%8Eflink%E7%9A%84%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E3%80%904%E3%80%91%E6%81%B6%E6%84%8F%E7%99%BB%E5%BD%95%E7%9B%91%E6%8E%A7.md)
+7. [基于 flink 的电商用户行为数据分析【5】基于埋点日志数据的网络流量统计](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E5%9F%BA%E4%BA%8E%20flink%20%E7%9A%84%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E3%80%905%E3%80%91%E5%9F%BA%E4%BA%8E%E5%9F%8B%E7%82%B9%E6%97%A5%E5%BF%97%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BD%91%E7%BB%9C%E6%B5%81%E9%87%8F%E7%BB%9F%E8%AE%A1.md)
+
+8. [基于 flink 的电商用户行为数据分析【6】APP市场推广统计](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E5%9F%BA%E4%BA%8E%20flink%20%E7%9A%84%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E3%80%906%E3%80%91APP%E5%B8%82%E5%9C%BA%E6%8E%A8%E5%B9%BF%E7%BB%9F%E8%AE%A1.md)
+
+9. [基于 flink 的电商用户行为数据分析【7】页面广告分析](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E5%9F%BA%E4%BA%8E%20flink%20%E7%9A%84%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E3%80%907%E3%80%91%E9%A1%B5%E9%9D%A2%E5%B9%BF%E5%91%8A%E5%88%86%E6%9E%90.md)
+
+10. [基于 flink 的电商用户行为数据分析【8】订单支付实时监控](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E5%9F%BA%E4%BA%8E%20flink%20%E7%9A%84%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E3%80%908%E3%80%91%E8%AE%A2%E5%8D%95%E6%94%AF%E4%BB%98%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7.md)
 
 
+11. [基于 flink 的电商用户行为数据分析【9】电商常见指标汇总 + 项目总结](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E5%9F%BA%E4%BA%8E%20flink%20%E7%9A%84%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E3%80%909%E3%80%91%E7%94%B5%E5%95%86%E5%B8%B8%E8%A7%81%E6%8C%87%E6%A0%87%E6%B1%87%E6%80%BB%20%2B%20%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md)
 
 
+### 面试杀招
+1. [Hive高频考点，就怕你都会](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B/%5B%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B%5DHive%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9%EF%BC%8C%E5%B0%B1%E6%80%95%E4%BD%A0%E9%83%BD%E4%BC%9A.md)
+2. [Hadoop高频考点，正在刷新你的认知](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B/%5B%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B%5DHadoop%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9%EF%BC%8C%E6%AD%A3%E5%9C%A8%E5%88%B7%E6%96%B0%E4%BD%A0%E7%9A%84%E8%AE%A4%E7%9F%A5.md)
+3. [Spark高频考点，必知必会](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B/%5B%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B%5DSpark%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9%EF%BC%8C%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A.md)
+4. [3道常见的SQL笔试题，你要不要来试试](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B/3%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84SQL%E7%AC%94%E8%AF%95%E9%A2%98%EF%BC%8C%E4%BD%A0%E8%A6%81%E4%B8%8D%E8%A6%81%E6%9D%A5%E8%AF%95%E8%AF%95.md)
 
 
 ### 程序人生
 
 
+1. [程序人生/简单谈谈最近在看的几本书「数据中台，用户画像」](https://github.com/BigDataScholar/TheKingOfBigData/tree/master/note/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F)
+
+
 
 ## 其他
-
 
 
 ### 联系我
