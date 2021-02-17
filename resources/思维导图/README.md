@@ -10,6 +10,8 @@
 
 - Scala 01 
 
+
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2021021716181589.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
 
@@ -32,20 +34,29 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hadoop生态圈非常庞大，我只记录了最基础的一些组件，但也是我花了最多精力的一张思维导图
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这是目录：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210217162507145.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中任意一个分支打开
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/202102171623452.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
+
+
 
 
 ## Kafka
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kafka 的内容非常多，这是其中一部分目录
 
+
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210217163611699.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;打开任意一个分支
+
+
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210217163703957.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
@@ -57,13 +68,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;简略版本的目录就很直接
 
+
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210217164321223.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这是分支内容
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+​         这是分支内容
+
+
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210217164425578.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;详细版的目录跟简略版的目录一致，但是内容更加详细，这只是其中一个小分支的细节
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+​         详细版的目录跟简略版的目录一致，但是内容更加详细，这只是其中一个小分支的细节
+
+
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210217164904952.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
@@ -80,9 +101,12 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210217165242389.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
 
+
 ### Docker
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这张 Docker 思维导图是 尚硅谷 周阳 老师分享的，是基于 Docker 6.x 版本的，感兴趣的小伙伴也可以看下
+
+
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210217165902286.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
