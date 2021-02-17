@@ -1,2 +1,29 @@
-# The-King-Of-BigData
-欲承其冠，必承其重！大数据之王，力求做到更好！
+# Java面试题
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;资料不在于多，在于精，关于Java的面试题，我也会持续更新，点个star，敬请关注！
+
+
+
+## 目录
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210217204415405.png)
+
+
+
+## 最新Java各知识点综合面试考点
+
+![1613565911005](F:\github\TheKingOfBigData\resources\Java面试题\README.assets\1613565911005.png)
+
+
+
+## 互联网一线大厂面试题
+
+![1613565962910](F:\github\TheKingOfBigData\resources\Java面试题\README.assets\1613565962910.png)
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;获取方式：关注作者公众号「猿人菌」，回复 "面经"即可获取
+
+
+
+![](https://img-blog.csdnimg.cn/20210119222335538.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
