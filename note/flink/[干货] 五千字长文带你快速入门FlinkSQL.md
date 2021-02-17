@@ -11,7 +11,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flink SQL 是面向用户的 API 层，在我们传统的流式计算领域，比如 **<font color='BlueViolet'>Storm、Spark Streaming 都会提供一些 Function 或者 Datastream API，用户通过 Java 或 Scala 写业务逻辑，这种方式虽然灵活，但有一些不足，比如具备一定门槛且调优较难</font>**，随着版本的不断更新，API 也出现了很多**不兼容**的地方。
 
 ![](https://img-blog.csdnimg.cn/20210116105810976.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在这个背景下，毫无疑问，SQL 就成了我们最佳选择，之所以选择将 SQL 作为核心 API，是因为其具有几个非常重要的特点：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+​        在这个背景下，毫无疑问，SQL 就成了我们最佳选择，之所以选择将 SQL 作为核心 API，是因为其具有几个非常重要的特点：
 
  - **SQL 属于设定式语言，用户只要表达清楚需求即可，不需要了解具体做法**；
  - **SQL 可优化，内置多种查询优化器，这些查询优化器可为 SQL 翻译出最优执行计划**；
