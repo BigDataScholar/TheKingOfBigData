@@ -1,13 +1,17 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在正式开始之前，我们先来看看一个倒排索引的例子。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2020100423563593.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;而具体什么是倒排索引？这里引用一下**维基百科**上的定义：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+​        而具体什么是倒排索引？这里引用一下**维基百科**上的定义：
 
 > <font color='black'>**倒排索引**（英语：Inverted index），也常被称为**反向索引**、**置入档案**或**反向档案**，是一种索引方法，被用来<font color='Chocolate'>**存储**</font>在<font color='Chocolate'>**全文搜索**</font>下某个单词在一个文档或者一组文档中的<font color='Chocolate'>**存储位置**</font>的映射。它是文档检索系统中最常用的数据结构。
 > 有两种不同的反向索引形式：
+>
 >  - 一条记录的水平反向索引（或者反向档案索引）包含每个引用单词的文档的列表。
 >  - 一个单词的水平反向索引（或者完全反向索引）又包含每个单词在一个文档中的位置。
 >
@@ -366,9 +370,13 @@ public class InverseIndexRunner extends Configured implements Tool {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们将项目打成jar包上传至linux
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201005002346164.png#pic_center)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;然后将数据源所需要的文件上传至HDFS
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201005002450864.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;然后执行命令:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+然后执行命令:
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`hadoop  jar /home/hadoop/alice_data-1.0-SNAPSHOT.jar io.alice.InverseIndexRunner  /data/input  /data/oneoutput /data/twooutput`
 
