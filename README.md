@@ -65,9 +65,10 @@
 
 
 
-### Hdfs
+### Hadoop
 
-1. [[干货]HDFS常用的40个命令](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hdfs/%5B%E5%B9%B2%E8%B4%A7%5DHDFS%E5%B8%B8%E7%94%A8%E7%9A%8440%E4%B8%AA%E5%91%BD%E4%BB%A4.md)
+1. [你有想过，如何用Hadoop实现"倒排索引"](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hadoop/%E4%BD%A0%E6%9C%89%E6%83%B3%E8%BF%87%EF%BC%8C%E5%A6%82%E4%BD%95%E7%94%A8Hadoop%E5%AE%9E%E7%8E%B0%5B%E5%80%92%E6%8E%92%E7%B4%A2%E5%BC%95%5D.md)
+2. [[干货]HDFS常用的40个命令](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hdfs/%5B%E5%B9%B2%E8%B4%A7%5DHDFS%E5%B8%B8%E7%94%A8%E7%9A%8440%E4%B8%AA%E5%91%BD%E4%BB%A4.md)
 
 
 
