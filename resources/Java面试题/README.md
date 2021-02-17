@@ -12,15 +12,11 @@
 
 ## 最新Java各知识点综合面试考点
 
-![1613565911005](F:\github\TheKingOfBigData\resources\Java面试题\README.assets\1613565911005.png)
-
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210217221544177.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
 ## 互联网一线大厂面试题
 
-![1613565962910](F:\github\TheKingOfBigData\resources\Java面试题\README.assets\1613565962910.png)
-
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210217221511126.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;获取方式：关注作者公众号「猿人菌」，回复 "面经"即可获取
 
