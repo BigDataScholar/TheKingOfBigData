@@ -24,7 +24,7 @@
 
 - Scala03
 
-![1613550141048](F:\github\TheKingOfBigData\resources\思维导图\README.assets\1613550141048.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/202102181033201.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
 
 
