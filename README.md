@@ -45,7 +45,6 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
-
 ## 文章目录
 
 
@@ -164,6 +163,15 @@
 4. [Apache Flink 在快手的过去、现在和未来](https://mp.weixin.qq.com/s/d3c5k-9-PFVCy9UPV7ZRPw)
 
 
+
+### 福利
+
+1. [最新Java各知识点综合面试考点+大厂面试题](https://github.com/BigDataScholar/TheKingOfBigData/tree/master/resources/Java%E9%9D%A2%E8%AF%95%E9%A2%98)
+2. [上百本免费电子书](https://github.com/BigDataScholar/TheKingOfBigData/tree/master/resources/%E5%85%8D%E8%B4%B9%E7%9A%84%E7%94%B5%E5%AD%90%E4%B9%A6)
+3. [大数据高频面试题](https://github.com/BigDataScholar/TheKingOfBigData/tree/master/resources/%E5%A4%A7%E6%95%B0%E6%8D%AE%E9%9D%A2%E8%AF%95%E9%A2%98)
+4. [思维导图](https://github.com/BigDataScholar/TheKingOfBigData/tree/master/resources/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
+5. [简历模板+修改教程](https://github.com/BigDataScholar/TheKingOfBigData/tree/master/resources/%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
+6. ... 更多福利，持续更新，敬请期待！
 
 
 ## 其他
