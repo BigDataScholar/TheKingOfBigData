@@ -45,7 +45,7 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## 文章目录
 
 
@@ -162,6 +162,8 @@
 2. [网易云音乐基于 Flink + Kafka 的实时数仓建设实践](https://mp.weixin.qq.com/s/JcuW0_YDQj0rlgPMmuwzYQ)
 3. [阿里巴巴为什么能抗住90秒100亿？--服务端高并发分布式架构演进之路](https://mp.weixin.qq.com/s/fyTqrx8aj813KHdPAiYpXA)
 4. [Apache Flink 在快手的过去、现在和未来](https://mp.weixin.qq.com/s/d3c5k-9-PFVCy9UPV7ZRPw)
+5. [分析 BAT 互联网巨头在大数据方向布局及大数据未来发展趋势](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&tempkey=MTEwMV9qbmlobnBUUXNVNDVOb3d6Vk1BWlRhUExybUJnYmhrRExWTllDT2FNRzVWRC1lb1JuYzdUQVl4bkI0QnUwckNSN3g1dTQ1cGdQMVYyZktmNWMtelVIVV9PWmZzR1NpVHVoQTI0Z0k2emNrN0ZFSmNPODV2VFVZcVRkZmJodDRjeERpakQxQlZ6RmlkOWlodzZPRmhETE05Y2dlOHRaYTNRN0VFbVJnfn4%3D&chksm=68d842d55fafcbc37adf1768525d80aabf26baf743c145b6c10b31fb801b55e5b22c1b7bbd59&__mpa_temp_link_flag=1&token=330116486#rd)
+
 
 
 
