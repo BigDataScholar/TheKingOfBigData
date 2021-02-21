@@ -126,7 +126,7 @@
 
 2. [[超硬核]一文带你入门用户画像](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%5B%E8%B6%85%E7%A1%AC%E6%A0%B8%5D%E4%B8%80%E6%96%87%E5%B8%A6%E4%BD%A0%E5%85%A5%E9%97%A8%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F.md)
 
-
+3. [[用户画像]标签数据存储之Hive真实应用](http://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247490138&idx=1&sn=d77a18ad00f7a0ed0b2408a9134f5b01&chksm=e8d84288dfafcb9e8b3687dc68bb137532d86dfbe8e80e16a2759f94d8e8ee4c2c8f1e63494e&token=330116486&lang=zh_CN#rd) 
 
 ### 面试杀招
 1. [Hive高频考点，就怕你都会](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B/%5B%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B%5DHive%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9%EF%BC%8C%E5%B0%B1%E6%80%95%E4%BD%A0%E9%83%BD%E4%BC%9A.md)
