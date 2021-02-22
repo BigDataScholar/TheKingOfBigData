@@ -13,12 +13,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='tomato'>Hive适合于大数据量的批处理作业，对于量级较小的数据，MySQL具有更快的读写速度</font>。Web端产品读写MySQL数据库会有更快的速度，方便标签的定义、管理。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在介绍**用户画像产品化**的时候，我们会介绍元数据录入和查询功能，将相应的数据存储在MySQL中。用户标签的元数据表结构设计也会在之后进行详细的介绍。这里给出了平台标签视图和元数据管理页面。
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210221192719476.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20210221192731558.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;平台标签视图中的标签元数据可以维护在MySQL关系数据库中，便于标签的编辑、查询和管理。
 
 ### 监控预警数据
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL还可用于**存储每天对ETL结果的监控信息**。从整个画像调度流的关键节点来看，需要监控的环节主要包括对每天标签的产出量、服务层数据同步情况的监控等主要场景。下图展示的是用户画像调度流主要模块。
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210221193123119.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
+
+
+
 #### 1.标签计算数据监控
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主要用于监控每天标签ETL的数据量是否出现异常，如果有异常情况则发出告警邮件，同时暂停后面的ETL任务。
 
