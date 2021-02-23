@@ -74,21 +74,34 @@ drop  '<table name>'
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业务逻辑上，渠道运营人员通过组合用户标签（如“未注册用户”和“安装距今天数”小于××天）筛选出对应的用户群，然后选择将对应人群推送到“广告系统”，这样每天画像系统的ETL调度完成后对应人群数据就被推送到HBase数据库进行存储。满足条件的新用户来访App时，由在线接口读取HBase数据库，在查询到该用户时为其推送该弹窗。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面通过某工程案例来讲解HBase在该触达用户场景中的应用方式。
+
 ![](https://img-blog.csdnimg.cn/20210222223852955.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
+
+
+
 ### 3. 工程化案例
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**运营人员在画像系统中根据业务规则定义组合用户标签筛选出用户群，并将该人群上线到广告系统中**。
 
+
+
 ![](https://img-blog.csdnimg.cn/20210222224208179.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在业务人员配置好规则后，下面我们来看在数据调度层面是如何运行的。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;用户标签数据经过ETL将每个用户身上的标签聚合后插入到目标表中，如`dw.userprofile_userlabel_map_all`。聚合后数据存储为每个用户id，以及他身上对应的标签集合，数据格式如图所示：
 
+
+
 ![](https://img-blog.csdnimg.cn/20210222230712227.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接下来需要将 Hive 中的数据导入HBase，便于线上接口实时调用库中数据。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**HBase的服务器体系结构遵循主从服务器架构**（如图所示），同一时刻只有一个**HMaster**处于活跃状态，当活跃的Master挂掉后，Backup HMaster自动接管整个HBase集群。在同步数据前，首先需要判断HBase的当前活跃节点是哪台机器。
 
+
+
 ![](https://img-blog.csdnimg.cn/20210222230813445.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;执行如下脚本：
 
 ```shell
@@ -102,7 +115,9 @@ for node in ("10.xxx.xx.xxx","10.xxx.xx.xxx"):   # 两台机器作为Master，�
         activenode = node
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;执行完毕后，可通过返回的“State”字段判断当前节点状态（活跃为“active”，不活跃为“standby”），如图所示。
+
 ![](https://img-blog.csdnimg.cn/20210222230930222.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为避免数据都写入一个region，造成HBase的数据倾斜问题。在当前HMaster活跃的节点上，创建预分区表：
 
 ```sql
