@@ -13,6 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所以，接下来我们用UserBehavior.csv作为数据源，实现一个网站总浏览量的统计。我们可以设置滚动时间窗口，实时统计每小时内的网站PV。
 
 ![UserBehavior.csv](https://img-blog.csdnimg.cn/20201205103437596.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70   )
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在src/main/scala下创建 `PageView.scala` 文件，具体代码如下：
 
 ```scala
@@ -57,6 +58,7 @@ object PageView {
 
 ```
 程序运行的结果：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201205152317331.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
 
@@ -127,7 +129,10 @@ object UniqueVisitor {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;程序运行的结果：
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201205152621503.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;到了这一步，让我们想想，还有没有更好的方案？
+
+
 
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201205153458862.jpg?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
@@ -291,12 +296,18 @@ object UvWithBloomFilter {
 ```
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;程序运行的效果如下所示：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201206000751662.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可以发现，我们改进之后的程序，不再是把所有需要统计的数据都放到本地内存里进行计算，而是来一条数据，我们就输出，然后利用布隆过滤器进行判断，并将最新的结果存入Redis。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;     可以发现，我们改进之后的程序，不再是把所有需要统计的数据都放到本地内存里进行计算，而是来一条数据，我们就输出，然后利用布隆过滤器进行判断，并将最新的结果存入Redis。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;等到程序运行完毕，我们打开 `redis`，输入`hgetall count`查看统计的最终结果，可以发现跟我们之前统计的结果是一致的。
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201206001700316.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要是嫌利用 redis 的 `bitmap` 自己手动实现一个简单的布隆过滤器过程繁琐的话，我们也可以利用<font color='Tomato'>Flink官方实现的布隆过滤器</font>来实现。具体代码见下：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+​        要是嫌利用 redis 的 `bitmap` 自己手动实现一个简单的布隆过滤器过程繁琐的话，我们也可以利用<font color='Tomato'>Flink官方实现的布隆过滤器</font>来实现。具体代码见下：
 
 ```scala
 /*
@@ -382,7 +393,9 @@ object UvByBloomFilterWithoutRedis {
 ```
 
 程序的运行结果：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201206003149111.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
+
 ***
 
 ### 小结
