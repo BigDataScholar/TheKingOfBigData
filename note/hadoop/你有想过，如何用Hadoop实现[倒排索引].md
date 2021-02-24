@@ -369,9 +369,12 @@ public class InverseIndexRunner extends Configured implements Tool {
 ## 测试执行
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们将项目打成jar包上传至linux
 
+
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201005002346164.png#pic_center)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;然后将数据源所需要的文件上传至HDFS
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201005002450864.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -381,11 +384,13 @@ public class InverseIndexRunner extends Configured implements Tool {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`hadoop  jar /home/hadoop/alice_data-1.0-SNAPSHOT.jar io.alice.InverseIndexRunner  /data/input  /data/oneoutput /data/twooutput`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;程序就开始 奔跑 起来~
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201005002802818.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;待到程序运行完毕，我们可以查看程序正确运行后的结果
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201005002853150.png#pic_center)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看到最后的效果跟我们题目需求所想要的完全一致时，就说明我们的思路是没错滴~
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
