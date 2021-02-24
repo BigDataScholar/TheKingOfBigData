@@ -81,7 +81,7 @@
 1. [关于Spark的面试题，你应该知道这些！](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/spark/%E5%85%B3%E4%BA%8ESpark%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%8C%E4%BD%A0%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E8%BF%99%E4%BA%9B%EF%BC%81.md)
 2. [Spark基础能力测试题](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/spark/Spark%E5%9F%BA%E7%A1%80%E8%83%BD%E5%8A%9B%E6%B5%8B%E8%AF%95%E9%A2%98.md)
 3. [SparkSQL基础测试题](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/spark/SparkSQL%E5%9F%BA%E7%A1%80%E6%B5%8B%E8%AF%95%E9%A2%98.md)
-4. [不会这20个Spark热门技术点，你敢出去面试大数据吗](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/spark/%E4%B8%8D%E4%BC%9A%E8%BF%9920%E4%B8%AASpark%E7%83%AD%E9%97%A8%E6%8A%80%E6%9C%AF%E7%82%B9%EF%BC%8C%E4%BD%A0%E6%95%A2%E5%87%BA%E5%8E%BB%E9%9D%A2%E8%AF%95%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%90%97.md)]
+4. [不会这20个Spark热门技术点，你敢出去面试大数据吗](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/spark/%E4%B8%8D%E4%BC%9A%E8%BF%9920%E4%B8%AASpark%E7%83%AD%E9%97%A8%E6%8A%80%E6%9C%AF%E7%82%B9%EF%BC%8C%E4%BD%A0%E6%95%A2%E5%87%BA%E5%8E%BB%E9%9D%A2%E8%AF%95%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%90%97.md)
 5. [关于SparkSQL的开窗函数，你应该知道这些](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/spark/%E5%85%B3%E4%BA%8ESparkSQL%E7%9A%84%E5%BC%80%E7%AA%97%E5%87%BD%E6%95%B0%EF%BC%8C%E4%BD%A0%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E8%BF%99%E4%BA%9B.md)
 6. [小白亲绘思维导图，带你重游Spark生态圈](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/spark/%E5%B0%8F%E7%99%BD%E4%BA%B2%E7%BB%98%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%EF%BC%8C%E5%B8%A6%E4%BD%A0%E9%87%8D%E6%B8%B8Spark%E7%94%9F%E6%80%81%E5%9C%88!.md)
 
