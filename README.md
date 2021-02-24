@@ -43,7 +43,7 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## 文章目录
 
 
@@ -67,7 +67,7 @@
 
 1. [你有想过，如何用Hadoop实现"倒排索引"](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hadoop/%E4%BD%A0%E6%9C%89%E6%83%B3%E8%BF%87%EF%BC%8C%E5%A6%82%E4%BD%95%E7%94%A8Hadoop%E5%AE%9E%E7%8E%B0%5B%E5%80%92%E6%8E%92%E7%B4%A2%E5%BC%95%5D.md)
 2. [[干货]HDFS常用的40个命令](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hadoop/%5B%E5%B9%B2%E8%B4%A7%5DHDFS%E5%B8%B8%E7%94%A8%E7%9A%8440%E4%B8%AA%E5%91%BD%E4%BB%A4.md)
-
+3. [[史上最全]Hadoop 核心 - HDFS 分布式文件系统详解(上万字建议收藏)](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247490366&idx=1&sn=e0251d3df1e773558cdd541a268aef3c&chksm=e8d843ecdfafcafa2b58994ab831b7cb5d9140935e981013fca2c41e439dc6f48f034a80383e&token=461102880&lang=zh_CN#rd)
 
 
 
@@ -75,7 +75,6 @@
 
 1. [Hive查询的18种方式，你都学会了吗](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hive/Hive%E6%9F%A5%E8%AF%A2%E7%9A%8418%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%8C%E4%BD%A0%E9%83%BD%E5%AD%A6%E4%BC%9A%E4%BA%86%E5%90%97.md)
 2. [[干货]关于Hive命令的7个小技巧](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hive/%5B%E5%B9%B2%E8%B4%A7%5D%E5%85%B3%E4%BA%8EHive%E5%91%BD%E4%BB%A4%E7%9A%847%E4%B8%AA%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
-
 
 
 ### Spark
