@@ -3,6 +3,7 @@
 ## 友情提示
 
 > 1. 联系我：如要进群或者有问题咨询，请联系我（备注来自`GitHub`。直接说明问题）
+> 2. 该仓库会持续更新福利干货，记得 star 持续关注!
 
 
 
@@ -128,6 +129,8 @@
 4. [[用户画像]标签数据存储之MySQL真实应用](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%5B%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%5D%E6%A0%87%E7%AD%BE%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E4%B9%8BMySQL%E7%9C%9F%E5%AE%9E%E5%BA%94%E7%94%A8.md)
 
 5. [[用户画像]标签数据存储之HBase真实应用](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%5B%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%5D%E6%A0%87%E7%AD%BE%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E4%B9%8BHBase%E7%9C%9F%E5%AE%9E%E5%BA%94%E7%94%A8.md)
+
+6. [用户画像]标签数据存储之Elasticsearch真实应用](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%5B%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%5D%E6%A0%87%E7%AD%BE%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E4%B9%8BElasticsearch%E7%9C%9F%E5%AE%9E%E5%BA%94%E7%94%A8.md)
 
 ### 面试杀招
 1. [Hive高频考点，就怕你都会](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B/%5B%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B%5DHive%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9%EF%BC%8C%E5%B0%B1%E6%80%95%E4%BD%A0%E9%83%BD%E4%BC%9A.md)
