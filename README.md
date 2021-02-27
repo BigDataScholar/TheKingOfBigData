@@ -44,7 +44,6 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
-
 ## 文章目录
 
 > 以下列出的是作者对原创或非原创的一些文章和一些学习资源做了一个汇总，会持续更新！如果帮到了您，请点个star支持一下，谢谢！
@@ -138,6 +137,7 @@
 2. [Hadoop高频考点，正在刷新你的认知](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B/%5B%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B%5DHadoop%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9%EF%BC%8C%E6%AD%A3%E5%9C%A8%E5%88%B7%E6%96%B0%E4%BD%A0%E7%9A%84%E8%AE%A4%E7%9F%A5.md)
 3. [Spark高频考点，必知必会](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B/%5B%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B%5DSpark%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9%EF%BC%8C%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A.md)
 4. [3道常见的SQL笔试题，你要不要来试试](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B/3%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84SQL%E7%AC%94%E8%AF%95%E9%A2%98%EF%BC%8C%E4%BD%A0%E8%A6%81%E4%B8%8D%E8%A6%81%E6%9D%A5%E8%AF%95%E8%AF%95.md)
+5. [系列文章一：精选大数据面试真题10道（混合型）-附答案详细解析](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247490454&idx=1&sn=df5243b8ff5610b2db4c286b99bcf70b&chksm=e8d84344dfafca529409da02e146c11ad06796eee7bdfba600277614dc298827faeb73b3bb2b&token=1819206302&lang=zh_CN#rd)
 
 
 
