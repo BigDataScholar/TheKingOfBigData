@@ -44,7 +44,6 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
-
 ## 文章目录
 
 > 以下列出的是作者对原创或非原创的一些文章和一些学习资源做了一个汇总，会持续更新！如果帮到了您，请点个star支持一下，谢谢！
@@ -139,7 +138,7 @@
 3. [Spark高频考点，必知必会](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B/%5B%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B%5DSpark%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9%EF%BC%8C%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A.md)
 4. [3道常见的SQL笔试题，你要不要来试试](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B/3%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84SQL%E7%AC%94%E8%AF%95%E9%A2%98%EF%BC%8C%E4%BD%A0%E8%A6%81%E4%B8%8D%E8%A6%81%E6%9D%A5%E8%AF%95%E8%AF%95.md)
 5. [系列文章一：精选大数据面试真题10道（混合型）-附答案详细解析](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247490454&idx=1&sn=df5243b8ff5610b2db4c286b99bcf70b&chksm=e8d84344dfafca529409da02e146c11ad06796eee7bdfba600277614dc298827faeb73b3bb2b&token=1819206302&lang=zh_CN#rd)
-
+6. [面试系列二：精选大数据面试真题JVM专项-附答案详细解析](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247490676&idx=1&sn=867b21a21cf74ef1ef17cdc96440da86&chksm=e8d844a6dfafcdb0ab18b4f8fd79421986e35a86de931b3d4604d7a2b15a970e8a7d7eb5b200&token=1819206302&lang=zh_CN#rd)
 
 
 
@@ -170,6 +169,7 @@
 4. [Apache Flink 在快手的过去、现在和未来](https://mp.weixin.qq.com/s/d3c5k-9-PFVCy9UPV7ZRPw)
 5. [分析 BAT 互联网巨头在大数据方向布局及大数据未来发展趋势](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&tempkey=MTEwMV9qbmlobnBUUXNVNDVOb3d6Vk1BWlRhUExybUJnYmhrRExWTllDT2FNRzVWRC1lb1JuYzdUQVl4bkI0QnUwckNSN3g1dTQ1cGdQMVYyZktmNWMtelVIVV9PWmZzR1NpVHVoQTI0Z0k2emNrN0ZFSmNPODV2VFVZcVRkZmJodDRjeERpakQxQlZ6RmlkOWlodzZPRmhETE05Y2dlOHRaYTNRN0VFbVJnfn4%3D&chksm=68d842d55fafcbc37adf1768525d80aabf26baf743c145b6c10b31fb801b55e5b22c1b7bbd59&__mpa_temp_link_flag=1&token=330116486#rd)
 6. [结合公司业务分析离线数仓建设](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247490484&idx=1&sn=6f26e9c4ded5188748d1bf9a4be72a20&chksm=e8d84366dfafca70c6f36ba84a6c43ebf59b4a7898f20598f0d3cea9a4579f442c67473c8ef3&token=1819206302&lang=zh_CN#rd)
+
 
 
 
