@@ -44,6 +44,7 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
+
 ## 文章目录
 
 > 以下列出的是作者对原创或非原创的一些文章和一些学习资源做了一个汇总，会持续更新！如果帮到了您，请点个star支持一下，谢谢！
@@ -199,7 +200,7 @@
 ### 公众号
 
 
-如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号**猿人菌**
+如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号**大数据梦想家**
 
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210212133657263.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)

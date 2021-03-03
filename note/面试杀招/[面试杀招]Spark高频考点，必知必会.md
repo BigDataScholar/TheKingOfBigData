@@ -273,6 +273,6 @@ driver-memory —— driver内存大小，默认512M
 
 <font color='RoyalBlue'>**一键三连，养成习惯~**</font>
 
-> 文章持续更新，可以微信搜一搜「 **猿人菌** 」第一时间阅读，思维导图，大数据书籍，大数据高频面试题，海量一线大厂面经，300G大数据全套视频等你获取....期待您的关注!
+> 文章持续更新，可以微信搜一搜「 **大数据梦想家** 」第一时间阅读，思维导图，大数据书籍，大数据高频面试题，海量一线大厂面经，300G大数据全套视频等你获取....期待您的关注!
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201116102452301.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210303133100452.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)

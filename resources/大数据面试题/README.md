@@ -26,7 +26,7 @@
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上资料关注公众号「猿人菌」后台回复“私房菜”即可获取，文件解密：dsjsfc
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上资料关注公众号「大数据梦想家」后台回复“私房菜”即可获取，文件解密：dsjsfc
 
 ## 大数据高频面试题
 
@@ -38,8 +38,7 @@
 
 ## 更多福利，作者正在整理，点个star，敬请期待!
 
-![](https://img-blog.csdnimg.cn/20210119222335538.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70#pic_center)
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210303133100452.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
 
 
