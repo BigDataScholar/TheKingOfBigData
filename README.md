@@ -44,7 +44,6 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
-
 ## 文章目录
 
 > 以下列出的是作者对原创或非原创的一些文章和一些学习资源做了一个汇总，会持续更新！如果帮到了您，请点个star支持一下，谢谢！
@@ -69,6 +68,7 @@
 1. [你有想过，如何用Hadoop实现"倒排索引"](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hadoop/%E4%BD%A0%E6%9C%89%E6%83%B3%E8%BF%87%EF%BC%8C%E5%A6%82%E4%BD%95%E7%94%A8Hadoop%E5%AE%9E%E7%8E%B0%5B%E5%80%92%E6%8E%92%E7%B4%A2%E5%BC%95%5D.md)
 2. [[干货]HDFS常用的40个命令](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hadoop/%5B%E5%B9%B2%E8%B4%A7%5DHDFS%E5%B8%B8%E7%94%A8%E7%9A%8440%E4%B8%AA%E5%91%BD%E4%BB%A4.md)
 3. [[史上最全]Hadoop 核心 - HDFS 分布式文件系统详解(上万字建议收藏)](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247490366&idx=1&sn=e0251d3df1e773558cdd541a268aef3c&chksm=e8d843ecdfafcafa2b58994ab831b7cb5d9140935e981013fca2c41e439dc6f48f034a80383e&token=461102880&lang=zh_CN#rd)
+4. [[前方高能] HDFS 的架构，你吃透了吗？](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hadoop/%5B%E5%89%8D%E6%96%B9%E9%AB%98%E8%83%BD%5D%20HDFS%20%E7%9A%84%E6%9E%B6%E6%9E%84%EF%BC%8C%E4%BD%A0%E5%90%83%E9%80%8F%E4%BA%86%E5%90%97%EF%BC%9F.md)
 
 
 
@@ -149,6 +149,10 @@
 
 
 
+### 中间件
+1. [从 0 到 1 学习 elasticsearch ，这一篇就够了！(建议收藏)](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E4%BB%8E%200%20%E5%88%B0%201%20%E5%AD%A6%E4%B9%A0%20elasticsearch%20%EF%BC%8C%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86%EF%BC%81(%E5%BB%BA%E8%AE%AE%E6%94%B6%E8%97%8F).md)
+
+
 ### 其他技术
 
 1. [零基础带你硬核了解并上手“Ansible“!](https://alice.blog.csdn.net/article/details/109771486)
@@ -202,10 +206,7 @@
 
 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号**大数据梦想家**
 
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210212133657263.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
-
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210303133100452.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
 ​          
 
