@@ -175,6 +175,7 @@
 4. [Apache Flink 在快手的过去、现在和未来](https://mp.weixin.qq.com/s/d3c5k-9-PFVCy9UPV7ZRPw)
 5. [分析 BAT 互联网巨头在大数据方向布局及大数据未来发展趋势](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&tempkey=MTEwMV9qbmlobnBUUXNVNDVOb3d6Vk1BWlRhUExybUJnYmhrRExWTllDT2FNRzVWRC1lb1JuYzdUQVl4bkI0QnUwckNSN3g1dTQ1cGdQMVYyZktmNWMtelVIVV9PWmZzR1NpVHVoQTI0Z0k2emNrN0ZFSmNPODV2VFVZcVRkZmJodDRjeERpakQxQlZ6RmlkOWlodzZPRmhETE05Y2dlOHRaYTNRN0VFbVJnfn4%3D&chksm=68d842d55fafcbc37adf1768525d80aabf26baf743c145b6c10b31fb801b55e5b22c1b7bbd59&__mpa_temp_link_flag=1&token=330116486#rd)
 6. [结合公司业务分析离线数仓建设](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247490484&idx=1&sn=6f26e9c4ded5188748d1bf9a4be72a20&chksm=e8d84366dfafca70c6f36ba84a6c43ebf59b4a7898f20598f0d3cea9a4579f442c67473c8ef3&token=1819206302&lang=zh_CN#rd)
+7. [网易云音乐数仓维度建模实践-模型设计篇](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&tempkey=MTEwM184TW5iS04wSDY1djhaSjduckJ2QTJHbEszVi00SjBOcFZQUkNJby1ReEpIWWtFNURHQ0dKdE9NOHU1TXByMWN6Zy1VOXdwX2xZeFM3T2dWbENWckhuaGM0TzlLUkRWVVY4N1M0bE40dm1ySjd0UFdmcWE0NDhkWDllR0hHb0lPdVdab1VFWEVTUE11YURNOXVwN1lBbjN3UTFUZXM0S3dwNkU1RGhBfn4%3D&chksm=68dbb8705fac31664b48442294a3b4f61175f480f05ea5320a3126c038d99da5669169e346d5&__mpa_temp_link_flag=1&token=1690256264#rd)
 
 
 
