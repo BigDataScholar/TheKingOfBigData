@@ -44,7 +44,6 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
-
 ## 文章目录
 
 > 以下列出的是作者对原创或非原创的一些文章和一些学习资源做了一个汇总，会持续更新！如果帮到了您，请点个star支持一下，谢谢！
@@ -71,6 +70,7 @@
 3. [[史上最全]Hadoop 核心 - HDFS 分布式文件系统详解(上万字建议收藏)](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247490366&idx=1&sn=e0251d3df1e773558cdd541a268aef3c&chksm=e8d843ecdfafcafa2b58994ab831b7cb5d9140935e981013fca2c41e439dc6f48f034a80383e&token=461102880&lang=zh_CN#rd)
 4. [[前方高能] HDFS 的架构，你吃透了吗？](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hadoop/%5B%E5%89%8D%E6%96%B9%E9%AB%98%E8%83%BD%5D%20HDFS%20%E7%9A%84%E6%9E%B6%E6%9E%84%EF%BC%8C%E4%BD%A0%E5%90%83%E9%80%8F%E4%BA%86%E5%90%97%EF%BC%9F.md)
 
+5. [[干货]HDFS是怎么做文件管理和容错的？](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hadoop/%5B%E5%B9%B2%E8%B4%A7%5DHDFS%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%92%8C%E5%AE%B9%E9%94%99%E7%9A%84%EF%BC%9F.md)
 
 
 ### Hive
