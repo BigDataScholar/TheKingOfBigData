@@ -98,7 +98,7 @@
 
 ### 其他组件
 
-1. [[硬核]Sqoop入门指南]](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%85%B6%E4%BB%96%E7%BB%84%E4%BB%B6/%5B%E7%A1%AC%E6%A0%B8%5DSqoop%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.md)
+1. [[硬核]Sqoop入门指南](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%85%B6%E4%BB%96%E7%BB%84%E4%BB%B6/%5B%E7%A1%AC%E6%A0%B8%5DSqoop%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.md)
 2. [从 0 到 1 学习 Presto，这一篇就够了](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%85%B6%E4%BB%96%E7%BB%84%E4%BB%B6/%E4%BB%8E%200%20%E5%88%B0%201%20%E5%AD%A6%E4%B9%A0%20Presto%EF%BC%8C%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86.md)
 
 
