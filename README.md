@@ -44,6 +44,7 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
+
 ## 文章目录
 
 > 以下列出的是作者对原创或非原创的一些文章和一些学习资源做了一个汇总，会持续更新！如果帮到了您，请点个star支持一下，谢谢！
@@ -94,6 +95,11 @@
 1. [ 五千字长文带你快速入门FlinkSQL](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/flink/%5B%E5%B9%B2%E8%B4%A7%5D%20%E4%BA%94%E5%8D%83%E5%AD%97%E9%95%BF%E6%96%87%E5%B8%A6%E4%BD%A0%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8FlinkSQL.md)
 2. [FlinkSQL流处理中的特殊概念](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/flink/FlinkSQL%E6%B5%81%E5%A4%84%E7%90%86%E4%B8%AD%E7%9A%84%E7%89%B9%E6%AE%8A%E6%A6%82%E5%BF%B5.md)
 3. [干货-13道精选Flink面试题](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/flink/%E5%B9%B2%E8%B4%A7-13%E9%81%93%E7%B2%BE%E9%80%89Flink%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+
+### 其他组件
+
+1. [[硬核]Sqoop入门指南]](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%85%B6%E4%BB%96%E7%BB%84%E4%BB%B6/%5B%E7%A1%AC%E6%A0%B8%5DSqoop%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.md)
+2. [从 0 到 1 学习 Presto，这一篇就够了](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%85%B6%E4%BB%96%E7%BB%84%E4%BB%B6/%E4%BB%8E%200%20%E5%88%B0%201%20%E5%AD%A6%E4%B9%A0%20Presto%EF%BC%8C%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86.md)
 
 
 
@@ -154,6 +160,8 @@
 1. [从 0 到 1 学习 elasticsearch ，这一篇就够了！(建议收藏)](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E4%BB%8E%200%20%E5%88%B0%201%20%E5%AD%A6%E4%B9%A0%20elasticsearch%20%EF%BC%8C%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86%EF%BC%81(%E5%BB%BA%E8%AE%AE%E6%94%B6%E8%97%8F).md)
 
 
+
+
 ### 其他技术
 
 1. [零基础带你硬核了解并上手“Ansible“!](https://alice.blog.csdn.net/article/details/109771486)
@@ -176,7 +184,10 @@
 5. [分析 BAT 互联网巨头在大数据方向布局及大数据未来发展趋势](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&tempkey=MTEwMV9qbmlobnBUUXNVNDVOb3d6Vk1BWlRhUExybUJnYmhrRExWTllDT2FNRzVWRC1lb1JuYzdUQVl4bkI0QnUwckNSN3g1dTQ1cGdQMVYyZktmNWMtelVIVV9PWmZzR1NpVHVoQTI0Z0k2emNrN0ZFSmNPODV2VFVZcVRkZmJodDRjeERpakQxQlZ6RmlkOWlodzZPRmhETE05Y2dlOHRaYTNRN0VFbVJnfn4%3D&chksm=68d842d55fafcbc37adf1768525d80aabf26baf743c145b6c10b31fb801b55e5b22c1b7bbd59&__mpa_temp_link_flag=1&token=330116486#rd)
 6. [结合公司业务分析离线数仓建设](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247490484&idx=1&sn=6f26e9c4ded5188748d1bf9a4be72a20&chksm=e8d84366dfafca70c6f36ba84a6c43ebf59b4a7898f20598f0d3cea9a4579f442c67473c8ef3&token=1819206302&lang=zh_CN#rd)
 7. [网易云音乐数仓维度建模实践-模型设计篇](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&tempkey=MTEwM184TW5iS04wSDY1djhaSjduckJ2QTJHbEszVi00SjBOcFZQUkNJby1ReEpIWWtFNURHQ0dKdE9NOHU1TXByMWN6Zy1VOXdwX2xZeFM3T2dWbENWckhuaGM0TzlLUkRWVVY4N1M0bE40dm1ySjd0UFdmcWE0NDhkWDllR0hHb0lPdVdab1VFWEVTUE11YURNOXVwN1lBbjN3UTFUZXM0S3dwNkU1RGhBfn4%3D&chksm=68dbb8705fac31664b48442294a3b4f61175f480f05ea5320a3126c038d99da5669169e346d5&__mpa_temp_link_flag=1&token=1690256264#rd)
-
+8. [架构师 | 数据仓库建设灵魂10问](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492069&idx=1&sn=f68def66bfd0354cd2adbbaf14da558e&chksm=e8dbb937dfac3021beb27373dc52d73b05ff0b2e0a1ea831829f608c4b03811a4d5aab23722a&token=1272273277&lang=zh_CN#rd)
+8. [基于 Flink SQL 构建流批一体的 ETL 数据集成](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492119&idx=1&sn=f382fb2cb02079319835d432baaecb2b&chksm=e8dbbac5dfac33d363198239e125113be797842abcd33841ae71d1bb366368e0a636b729e1d3&token=1272273277&lang=zh_CN#rd)
+9. [推荐一些热门的DevOps工具](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492239&idx=1&sn=47a8d70793326a3a97f61ccb9a4d181e&chksm=e8dbba5ddfac334b53b6c20ffcde7322b8c61106e0c1a2120604731fe0aadefe4ee17386aca6&token=1272273277&lang=zh_CN#rd)
+10. [使用 Flink 前需要知道的 10 个『陷阱』](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492303&idx=1&sn=3c86c64c9de9ef72453efac1740a642a&chksm=e8dbba1ddfac330bbb898a54485a3e7bab7366fd884beab134402fc4d9822258e904f2069afa&token=1272273277&lang=zh_CN#rd)
 
 
 
@@ -188,7 +199,9 @@
 3. [大数据高频面试题](https://github.com/BigDataScholar/TheKingOfBigData/tree/master/resources/%E5%A4%A7%E6%95%B0%E6%8D%AE%E9%9D%A2%E8%AF%95%E9%A2%98)
 4. [思维导图](https://github.com/BigDataScholar/TheKingOfBigData/tree/master/resources/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
 5. [简历模板+修改教程](https://github.com/BigDataScholar/TheKingOfBigData/tree/master/resources/%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
-6. ... 更多福利，持续更新，敬请期待！
+6. 持续更新的福利 🚀[「大数据梦想家」学习资料共享](https://shimo.im/docs/C8Y6Jjtw9ryRpVJH)🚀
+
+
 
 
 ## 其他
