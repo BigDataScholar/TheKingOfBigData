@@ -184,12 +184,15 @@
 5. [分析 BAT 互联网巨头在大数据方向布局及大数据未来发展趋势](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&tempkey=MTEwMV9qbmlobnBUUXNVNDVOb3d6Vk1BWlRhUExybUJnYmhrRExWTllDT2FNRzVWRC1lb1JuYzdUQVl4bkI0QnUwckNSN3g1dTQ1cGdQMVYyZktmNWMtelVIVV9PWmZzR1NpVHVoQTI0Z0k2emNrN0ZFSmNPODV2VFVZcVRkZmJodDRjeERpakQxQlZ6RmlkOWlodzZPRmhETE05Y2dlOHRaYTNRN0VFbVJnfn4%3D&chksm=68d842d55fafcbc37adf1768525d80aabf26baf743c145b6c10b31fb801b55e5b22c1b7bbd59&__mpa_temp_link_flag=1&token=330116486#rd)
 6. [结合公司业务分析离线数仓建设](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247490484&idx=1&sn=6f26e9c4ded5188748d1bf9a4be72a20&chksm=e8d84366dfafca70c6f36ba84a6c43ebf59b4a7898f20598f0d3cea9a4579f442c67473c8ef3&token=1819206302&lang=zh_CN#rd)
 7. [网易云音乐数仓维度建模实践-模型设计篇](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&tempkey=MTEwM184TW5iS04wSDY1djhaSjduckJ2QTJHbEszVi00SjBOcFZQUkNJby1ReEpIWWtFNURHQ0dKdE9NOHU1TXByMWN6Zy1VOXdwX2xZeFM3T2dWbENWckhuaGM0TzlLUkRWVVY4N1M0bE40dm1ySjd0UFdmcWE0NDhkWDllR0hHb0lPdVdab1VFWEVTUE11YURNOXVwN1lBbjN3UTFUZXM0S3dwNkU1RGhBfn4%3D&chksm=68dbb8705fac31664b48442294a3b4f61175f480f05ea5320a3126c038d99da5669169e346d5&__mpa_temp_link_flag=1&token=1690256264#rd)
-8. [架构师 | 数据仓库建设灵魂10问](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492069&idx=1&sn=f68def66bfd0354cd2adbbaf14da558e&chksm=e8dbb937dfac3021beb27373dc52d73b05ff0b2e0a1ea831829f608c4b03811a4d5aab23722a&token=1272273277&lang=zh_CN#rd)
-8. [基于 Flink SQL 构建流批一体的 ETL 数据集成](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492119&idx=1&sn=f382fb2cb02079319835d432baaecb2b&chksm=e8dbbac5dfac33d363198239e125113be797842abcd33841ae71d1bb366368e0a636b729e1d3&token=1272273277&lang=zh_CN#rd)
-9. [推荐一些热门的DevOps工具](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492239&idx=1&sn=47a8d70793326a3a97f61ccb9a4d181e&chksm=e8dbba5ddfac334b53b6c20ffcde7322b8c61106e0c1a2120604731fe0aadefe4ee17386aca6&token=1272273277&lang=zh_CN#rd)
-10. [使用 Flink 前需要知道的 10 个『陷阱』](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492303&idx=1&sn=3c86c64c9de9ef72453efac1740a642a&chksm=e8dbba1ddfac330bbb898a54485a3e7bab7366fd884beab134402fc4d9822258e904f2069afa&token=1272273277&lang=zh_CN#rd)
 
 
+### 超强总结
+1. [万字详解整个数据仓库建设体系](https://mp.weixin.qq.com/s/EHzya2zscZTnRe0GCVK4cA)
+2. [Redis最佳实践：7个维度+43条使用规范，带你彻底玩转Redis | 附实践清单](https://mp.weixin.qq.com/s/WXoyhxF057VcJtncIYzECw)
+3. [架构师 | 数据仓库建设灵魂10问](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492069&idx=1&sn=f68def66bfd0354cd2adbbaf14da558e&chksm=e8dbb937dfac3021beb27373dc52d73b05ff0b2e0a1ea831829f608c4b03811a4d5aab23722a&token=1272273277&lang=zh_CN#rd)
+4. [基于 Flink SQL 构建流批一体的 ETL 数据集成](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492119&idx=1&sn=f382fb2cb02079319835d432baaecb2b&chksm=e8dbbac5dfac33d363198239e125113be797842abcd33841ae71d1bb366368e0a636b729e1d3&token=1272273277&lang=zh_CN#rd)
+5. [推荐一些热门的DevOps工具](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492239&idx=1&sn=47a8d70793326a3a97f61ccb9a4d181e&chksm=e8dbba5ddfac334b53b6c20ffcde7322b8c61106e0c1a2120604731fe0aadefe4ee17386aca6&token=1272273277&lang=zh_CN#rd)
+6. [使用 Flink 前需要知道的 10 个『陷阱』](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492303&idx=1&sn=3c86c64c9de9ef72453efac1740a642a&chksm=e8dbba1ddfac330bbb898a54485a3e7bab7366fd884beab134402fc4d9822258e904f2069afa&token=1272273277&lang=zh_CN#rd)
 
 
 ### 福利
