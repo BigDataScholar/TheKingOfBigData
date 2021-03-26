@@ -194,6 +194,8 @@
 5. [推荐一些热门的DevOps工具](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492239&idx=1&sn=47a8d70793326a3a97f61ccb9a4d181e&chksm=e8dbba5ddfac334b53b6c20ffcde7322b8c61106e0c1a2120604731fe0aadefe4ee17386aca6&token=1272273277&lang=zh_CN#rd)
 6. [使用 Flink 前需要知道的 10 个『陷阱』](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492303&idx=1&sn=3c86c64c9de9ef72453efac1740a642a&chksm=e8dbba1ddfac330bbb898a54485a3e7bab7366fd884beab134402fc4d9822258e904f2069afa&token=1272273277&lang=zh_CN#rd)
 
+### 精华面经
+1. [美团优选大数据开发岗面试真题-附答案详细解析](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492683&idx=1&sn=6a7483a9ad93493555a52a419b960ed1&chksm=e8dbbc99dfac358f95524c7bc90a4a2dc4699ce376f19b613b2aee984bb03b1a31da9cd8cd7e&token=1777830110&lang=zh_CN#rd)
 
 ### 福利
 
