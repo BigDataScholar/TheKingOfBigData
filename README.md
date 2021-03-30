@@ -44,7 +44,6 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
-
 ## 文章目录
 
 > 以下列出的是作者对原创或非原创的一些文章和一些学习资源做了一个汇总，会持续更新！如果帮到了您，请点个star支持一下，谢谢！
@@ -100,7 +99,8 @@
 
 1. [[硬核]Sqoop入门指南](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%85%B6%E4%BB%96%E7%BB%84%E4%BB%B6/%5B%E7%A1%AC%E6%A0%B8%5DSqoop%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.md)
 2. [从 0 到 1 学习 Presto，这一篇就够了](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%85%B6%E4%BB%96%E7%BB%84%E4%BB%B6/%E4%BB%8E%200%20%E5%88%B0%201%20%E5%AD%A6%E4%B9%A0%20Presto%EF%BC%8C%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86.md)
-
+3. [第一个“国产“Apache顶级项目——Kylin，了解一下](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%85%B6%E4%BB%96%E7%BB%84%E4%BB%B6/%E7%AC%AC%E4%B8%80%E4%B8%AA%E2%80%9C%E5%9B%BD%E4%BA%A7%E2%80%9CApache%E9%A1%B6%E7%BA%A7%E9%A1%B9%E7%9B%AE%E2%80%94%E2%80%94Kylin%EF%BC%8C%E4%BA%86%E8%A7%A3%E4%B8%80%E4%B8%8B%EF%BC%81.md)
+4. [Kylin如何通过BI工具展示](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%85%B6%E4%BB%96%E7%BB%84%E4%BB%B6/Kylin%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87BI%E5%B7%A5%E5%85%B7%E5%B1%95%E7%A4%BA.md)
 
 
 ### [大数据实战]电商用户行为数据分析
