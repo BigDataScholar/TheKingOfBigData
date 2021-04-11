@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f4b9d3c-5ec4-4f92-99a5-47a66eed35c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/TheKingOfBigData.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-doclet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IDEA\IDEA2020.2.3\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="G:\jdk1.8\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1nxgMdYXnBJeEVuDVhFgeUWPCfH" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\github\TheKingOfBigData\code\SparkBase" />
+      <recent name="F:\github\TheKingOfBigData\code\FlinkBase" />
+      <recent name="F:\github\TheKingOfBigData\resources\简历模板" />
+      <recent name="F:\github\TheKingOfBigData\resources\大数据面试题" />
+      <recent name="F:\github\TheKingOfBigData\resources\Java面试题" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\github\TheKingOfBigData\note\其他组件" />
+      <recent name="F:\github\TheKingOfBigData\note\hadoop" />
+      <recent name="F:\github\TheKingOfBigData\note\实战项目" />
+      <recent name="F:\github\TheKingOfBigData\note\hive" />
+      <recent name="F:\github\TheKingOfBigData\note" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f4b9d3c-5ec4-4f92-99a5-47a66eed35c3" name="Default Changelist" comment="" />
+      <created>1612337108554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612337108554</updated>
+      <workItem from="1612337109847" duration="789000" />
+      <workItem from="1612404026027" duration="1401000" />
+      <workItem from="1612711772690" duration="3454000" />
+      <workItem from="1612764620636" duration="1208000" />
+      <workItem from="1612838025714" duration="10246000" />
+      <workItem from="1612888052266" duration="3598000" />
+      <workItem from="1612892187716" duration="95000" />
+      <workItem from="1612924751303" duration="2927000" />
+      <workItem from="1613024594671" duration="815000" />
+      <workItem from="1613104546627" duration="7547000" />
+      <workItem from="1613532266271" duration="13049000" />
+      <workItem from="1613615206988" duration="2081000" />
+      <workItem from="1613626215409" duration="1187000" />
+      <workItem from="1613631292422" duration="140000" />
+      <workItem from="1613633718691" duration="441000" />
+      <workItem from="1613714870313" duration="2724000" />
+      <workItem from="1613903953680" duration="2727000" />
+      <workItem from="1613976109958" duration="1152000" />
+      <workItem from="1614052624817" duration="3488000" />
+      <workItem from="1614135115620" duration="6690000" />
+      <workItem from="1614221229418" duration="1932000" />
+      <workItem from="1614400155815" duration="999000" />
+      <workItem from="1614564885809" duration="4310000" />
+      <workItem from="1614749246577" duration="3523000" />
+      <workItem from="1614826368472" duration="3303000" />
+      <workItem from="1614913388452" duration="2046000" />
+      <workItem from="1615256739349" duration="1324000" />
+      <workItem from="1615304642679" duration="1716000" />
+      <workItem from="1615343449352" duration="1968000" />
+      <workItem from="1615521594291" duration="2771000" />
+      <workItem from="1615626836698" duration="1803000" />
+      <workItem from="1615717650913" duration="1943000" />
+      <workItem from="1615778381802" duration="5166000" />
+      <workItem from="1616151035242" duration="610000" />
+      <workItem from="1616428645952" duration="1207000" />
+      <workItem from="1616600990281" duration="1361000" />
+      <workItem from="1616726212163" duration="2360000" />
+      <workItem from="1617117672628" duration="2947000" />
+      <workItem from="1617243627654" duration="724000" />
+      <workItem from="1617869636389" duration="705000" />
+    </task>
+    <task id="LOCAL-00041" summary="添加思维导图部分内容">
+      <created>1613553002935</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1613553002935</updated>
+    </task>
+    <task id="LOCAL-00042" summary="添加思维导图部分内容">
+      <created>1613553599741</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1613553599741</updated>
+    </task>
+    <task id="LOCAL-00043" summary="补充新的干货">
+      <created>1613566085749</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1613566085749</updated>
+    </task>
+    <task id="LOCAL-00044" summary="补充新的干货">
+      <created>1613571383170</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1613571383170</updated>
+    </task>
+    <task id="LOCAL-00045" summary="更新readme">
+      <created>1613571526126</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1613571526126</updated>
+    </task>
+    <task id="LOCAL-00046" summary="更新readme">
+      <created>1613571704085</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1613571704085</updated>
+    </task>
+    <task id="LOCAL-00047" summary="更新readme">
+      <created>1613571836781</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1613571836781</updated>
+    </task>
+    <task id="LOCAL-00048" summary="更新readme">
+      <created>1613615689141</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1613615689141</updated>
+    </task>
+    <task id="LOCAL-00049" summary="更新readme">
+      <created>1613626248093</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1613626248093</updated>
+    </task>
+    <task id="LOCAL-00050" summary="更新readme">
+      <created>1613631306716</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1613631306717</updated>
+    </task>
+    <task id="LOCAL-00051" summary="更新readme">
+      <created>1613633732020</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1613633732020</updated>
+    </task>
+    <task id="LOCAL-00052" summary="更新readme">
+      <created>1613633826745</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1613633826745</updated>
+    </task>
+    <task id="LOCAL-00053" summary="更新readme">
+      <created>1613715075364</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1613715075364</updated>
+    </task>
+    <task id="LOCAL-00054" summary="更新readme和实战文章">
+      <created>1613904430594</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1613904430595</updated>
+    </task>
+    <task id="LOCAL-00055" summary="更新readme">
+      <created>1613904539132</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1613904539133</updated>
+    </task>
+    <task id="LOCAL-00056" summary="更新readme">
+      <created>1613905240423</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1613905240423</updated>
+    </task>
+    <task id="LOCAL-00057" summary="更新画像文章">
+      <created>1613976136772</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1613976136772</updated>
+    </task>
+    <task id="LOCAL-00058" summary="调整内容格式">
+      <created>1613976316419</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1613976316419</updated>
+    </task>
+    <task id="LOCAL-00059" summary="更新readme">
+      <created>1613976332739</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1613976332739</updated>
+    </task>
+    <task id="LOCAL-00060" summary="更新Hbase的应用">
+      <created>1614052983022</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1614052983023</updated>
+    </task>
+    <task id="LOCAL-00061" summary="更新Hbase的文章的排版和readme文件">
+      <created>1614053150375</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1614053150375</updated>
+    </task>
+    <task id="LOCAL-00062" summary="更新Hbase的文章的排版">
+      <created>1614068467185</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1614068467186</updated>
+    </task>
+    <task id="LOCAL-00063" summary="更新flink的文章的排版">
+      <created>1614069110259</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1614069110259</updated>
+    </task>
+    <task id="LOCAL-00064" summary="更新readme文章目录">
+      <created>1614135311362</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1614135311362</updated>
+    </task>
+    <task id="LOCAL-00065" summary="更新readme文章目录">
+      <created>1614135414740</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1614135414740</updated>
+    </task>
+    <task id="LOCAL-00066" summary="添加了flink和spark的入门代码">
+      <created>1614136658942</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1614136658942</updated>
+    </task>
+    <task id="LOCAL-00067" summary="删除代码">
+      <created>1614137284413</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1614137284413</updated>
+    </task>
+    <task id="LOCAL-00068" summary="更新readme">
+      <created>1614159563836</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1614159563836</updated>
+    </task>
+    <task id="LOCAL-00069" summary="调整文章格式">
+      <created>1614159988330</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1614159988330</updated>
+    </task>
+    <task id="LOCAL-00070" summary="调整文章格式">
+      <created>1614160944145</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1614160944145</updated>
+    </task>
+    <task id="LOCAL-00071" summary="添加 Hbase 在用户画像中应用实践的文章">
+      <created>1614221754829</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1614221754830</updated>
+    </task>
+    <task id="LOCAL-00072" summary="更新 readme">
+      <created>1614221845498</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1614221845498</updated>
+    </task>
+    <task id="LOCAL-00073" summary="更新 readme">
+      <created>1614221935986</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1614221935986</updated>
+    </task>
+    <task id="LOCAL-00074" summary="更新 readme 文章列表">
+      <created>1614400543695</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1614400543695</updated>
+    </task>
+    <task id="LOCAL-00075" summary="更新 readme 文章列表">
+      <created>1614565001252</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1614565001253</updated>
+    </task>
+    <task id="LOCAL-00076" summary="更新 readme 文章列表">
+      <created>1614590143572</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1614590143572</updated>
+    </task>
+    <task id="LOCAL-00077" summary="更新文章格式">
+      <created>1614749713423</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1614749713424</updated>
+    </task>
+    <task id="LOCAL-00078" summary="更新readme,添加新的文章!">
+      <created>1614750134970</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1614750134970</updated>
+    </task>
+    <task id="LOCAL-00079" summary="更新readme">
+      <created>1614750150671</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1614750150671</updated>
+    </task>
+    <task id="LOCAL-00080" summary="更新readme，新增一篇企业级真实应用文章">
+      <created>1614913806529</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1614913806529</updated>
+    </task>
+    <task id="LOCAL-00081" summary="新增一篇HDFS文章">
+      <created>1615304742574</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1615304742575</updated>
+    </task>
+    <task id="LOCAL-00082" summary="更新readme,添加新增文章链接">
+      <created>1615304991031</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1615304991032</updated>
+    </task>
+    <task id="LOCAL-00083" summary="创建新目录-其他组件,存放非主流技术组件的文章">
+      <created>1615723463782</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1615723463783</updated>
+    </task>
+    <task id="LOCAL-00084" summary="更新readme,添加了几篇新的文章链接,并添加了新的福利地址">
+      <created>1615883036572</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1615883036572</updated>
+    </task>
+    <task id="LOCAL-00085" summary="更新readme,添加了几篇新的文章链接,并添加了新的福利地址">
+      <created>1615883114796</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1615883114796</updated>
+    </task>
+    <task id="LOCAL-00086" summary="更新readme,添加了几篇新的文章链接,并添加了新的福利地址">
+      <created>1616601475979</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1616601475979</updated>
+    </task>
+    <task id="LOCAL-00087" summary="更新readme,添加了一篇面试精华帖">
+      <created>1616726434023</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1616726434024</updated>
+    </task>
+    <task id="LOCAL-00088" summary="添加了2篇关于Kylin新的文章">
+      <created>1617118135092</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1617118135093</updated>
+    </task>
+    <task id="LOCAL-00089" summary="更新 readme 文件,新加入2篇文章的链接">
+      <created>1617118726813</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1617118726814</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新readme和实战文章" />
+    <MESSAGE value="更新画像文章" />
+    <MESSAGE value="调整内容格式" />
+    <MESSAGE value="更新Hbase的应用" />
+    <MESSAGE value="更新Hbase的文章的排版和readme文件" />
+    <MESSAGE value="更新Hbase的文章的排版" />
+    <MESSAGE value="更新flink的文章的排版" />
+    <MESSAGE value="更新readme文章目录" />
+    <MESSAGE value="添加了flink和spark的入门代码" />
+    <MESSAGE value="删除代码" />
+    <MESSAGE value="调整文章格式" />
+    <MESSAGE value="添加 Hbase 在用户画像中应用实践的文章" />
+    <MESSAGE value="更新 readme" />
+    <MESSAGE value="更新 readme 文章列表" />
+    <MESSAGE value="更新文章格式" />
+    <MESSAGE value="更新readme,添加新的文章!" />
+    <MESSAGE value="更新readme" />
+    <MESSAGE value="更新readme，新增一篇企业级真实应用文章" />
+    <MESSAGE value="新增一篇HDFS文章" />
+    <MESSAGE value="更新readme,添加新增文章链接" />
+    <MESSAGE value="创建新目录-其他组件,存放非主流技术组件的文章" />
+    <MESSAGE value="更新readme,添加了几篇新的文章链接,并添加了新的福利地址" />
+    <MESSAGE value="更新readme,添加了一篇面试精华帖" />
+    <MESSAGE value="添加了2篇关于Kylin新的文章" />
+    <MESSAGE value="更新 readme 文件,新加入2篇文章的链接" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新 readme 文件,新加入2篇文章的链接" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1614052957576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1614052957576" />
+    <state x="504" y="207" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612337814453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="504" y="207" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1612337814453" />
+    <state x="506" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1614136268236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="506" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1614136268236" />
+    <state x="400" y="0" key="CommitChangelistDialog2" timestamp="1617118725972">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1616726432133" />
+    <state x="400" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1617118725972" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1613631431416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1613631431416" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1617869639968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1617869639968" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613104555585" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1615778393772">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615778393772" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1617118729539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1616726435098" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1617118729539" />
+    <state x="572" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613133100634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="572" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1612854309960" />
+    <state x="572" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1613133100634" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1613108118345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1613108118345" />
+  </component>
+</project>
