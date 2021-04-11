@@ -44,7 +44,6 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
-
 ## 文章目录
 
 > 以下列出的是作者对原创或非原创的一些文章和一些学习资源做了一个汇总，会持续更新！如果帮到了您，请点个star支持一下，谢谢！
@@ -102,11 +101,13 @@
 2. [从 0 到 1 学习 Presto，这一篇就够了](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%85%B6%E4%BB%96%E7%BB%84%E4%BB%B6/%E4%BB%8E%200%20%E5%88%B0%201%20%E5%AD%A6%E4%B9%A0%20Presto%EF%BC%8C%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86.md)
 3. [第一个“国产“Apache顶级项目——Kylin，了解一下](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%85%B6%E4%BB%96%E7%BB%84%E4%BB%B6/%E7%AC%AC%E4%B8%80%E4%B8%AA%E2%80%9C%E5%9B%BD%E4%BA%A7%E2%80%9CApache%E9%A1%B6%E7%BA%A7%E9%A1%B9%E7%9B%AE%E2%80%94%E2%80%94Kylin%EF%BC%8C%E4%BA%86%E8%A7%A3%E4%B8%80%E4%B8%8B%EF%BC%81.md)
 4. [Kylin如何通过BI工具展示](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%85%B6%E4%BB%96%E7%BB%84%E4%BB%B6/Kylin%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87BI%E5%B7%A5%E5%85%B7%E5%B1%95%E7%A4%BA.md)
+5. [实时分析数据库 Druid，Mark 一下](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%85%B6%E4%BB%96%E7%BB%84%E4%BB%B6/%E5%AE%9E%E6%97%B6%E5%88%86%E6%9E%90%E6%95%B0%E6%8D%AE%E5%BA%93%20Druid%EF%BC%8CMark%20%E4%B8%80%E4%B8%8B.md)
 
 
 ### [大数据实战]电商用户行为数据分析
 
 1. [基于 flink 的电商用户行为数据分析【1】项目整体介绍](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E5%9F%BA%E4%BA%8Eflink%E7%9A%84%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E3%80%901%E3%80%91%20%E9%A1%B9%E7%9B%AE%E6%95%B4%E4%BD%93%E4%BB%8B%E7%BB%8D.md)
+
 
 2. [基于 flink 的电商用户行为数据分析【2】实时热门商品统计](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E5%9F%BA%E4%BA%8Eflink%E7%9A%84%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E3%80%902%E3%80%91%E5%AE%9E%E6%97%B6%E7%83%AD%E9%97%A8%E5%95%86%E5%93%81%E7%BB%9F%E8%AE%A1.md)
 
@@ -154,8 +155,8 @@
 ### 程序人生
 
 1. [程序人生/简单谈谈最近在看的几本书「数据中台，用户画像」](https://github.com/BigDataScholar/TheKingOfBigData/tree/master/note/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F)
-
-
+2. [简单谈谈最近在看的几本书「数据中台，用户画像」](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%AE%80%E5%8D%95%E8%B0%88%E8%B0%88%E6%9C%80%E8%BF%91%E5%9C%A8%E7%9C%8B%E7%9A%84%E5%87%A0%E6%9C%AC%E4%B9%A6%E3%80%8C%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%8F%B0%EF%BC%8C%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%E3%80%8D.md)
+3. [[云上有为 · 未来无界] 2021上海站 ECUG Con 第一天回忆录](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%5B%E4%BA%91%E4%B8%8A%E6%9C%89%E4%B8%BA%20%C2%B7%20%E6%9C%AA%E6%9D%A5%E6%97%A0%E7%95%8C%5D%202021%E4%B8%8A%E6%B5%B7%E7%AB%99%20ECUG%20Con%20%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%9B%9E%E5%BF%86%E5%BD%95.md)
 
 ### 中间件
 1. [从 0 到 1 学习 elasticsearch ，这一篇就够了！(建议收藏)](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E4%BB%8E%200%20%E5%88%B0%201%20%E5%AD%A6%E4%B9%A0%20elasticsearch%20%EF%BC%8C%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86%EF%BC%81(%E5%BB%BA%E8%AE%AE%E6%94%B6%E8%97%8F).md)
