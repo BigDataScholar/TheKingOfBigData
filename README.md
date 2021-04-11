@@ -7,7 +7,8 @@
 
 
 
-  <p align="center">                                                                                                                               
+  <p align="center">     
+  
   <a href="https://github.com/BigDataScholar/TheKingOfBigData" target="_blank">                                                                               
   	<img src="https://img-blog.csdnimg.cn/20210210005107102.png" width=""/>                                                
   </a>                                                                                                                                             
@@ -44,6 +45,7 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
+
 ## 文章目录
 
 > 以下列出的是作者对原创或非原创的一些文章和一些学习资源做了一个汇总，会持续更新！如果帮到了您，请点个star支持一下，谢谢！
