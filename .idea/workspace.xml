@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f4b9d3c-5ec4-4f92-99a5-47a66eed35c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/note/面试杀招/看完了108份面试题，我为你总结出了这 10 个【Hive】高频考点（建议收藏）.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note/面试杀招/看完了108份面试题，我为你总结出了这 10 个【Hive】高频考点（建议收藏）.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/面试杀招/看完了108份面试题，我为你总结出了这 10 个【Hive】高频考点（建议收藏）.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,14 +151,7 @@
       <workItem from="1617243627654" duration="724000" />
       <workItem from="1617869636389" duration="705000" />
       <workItem from="1618154426788" duration="1898000" />
-      <workItem from="1619103265928" duration="1986000" />
-    </task>
-    <task id="LOCAL-00043" summary="补充新的干货">
-      <created>1613566085749</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1613566085749</updated>
+      <workItem from="1619103265928" duration="2245000" />
     </task>
     <task id="LOCAL-00044" summary="补充新的干货">
       <created>1613571383170</created>
@@ -497,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618155085683</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="更新readme文件，添加一篇文章链接">
+      <created>1619107509670</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1619107509671</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="调整内容格式" />
     <MESSAGE value="更新Hbase的应用" />
     <MESSAGE value="更新Hbase的文章的排版和readme文件" />
     <MESSAGE value="更新Hbase的文章的排版" />
@@ -542,7 +540,8 @@
     <MESSAGE value="更新 readme 文件,新加入2篇文章的链接" />
     <MESSAGE value="新加入3篇文章" />
     <MESSAGE value="更新readme文件，添加3篇文章的链接" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新readme文件，添加3篇文章的链接" />
+    <MESSAGE value="更新readme文件，添加一篇文章链接" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新readme文件，添加一篇文章链接" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1614052957576">
@@ -557,11 +556,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="506" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1614136268236" />
-    <state x="400" y="0" key="CommitChangelistDialog2" timestamp="1618155084912">
+    <state x="400" y="0" key="CommitChangelistDialog2" timestamp="1619107508454">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1616726432133" />
-    <state x="400" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1618155084912" />
+    <state x="400" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1619107508454" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1613631431416">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -575,11 +574,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615778393772" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1618155087253">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1619107511273">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1616726435098" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1618155087253" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1619107511273" />
     <state x="572" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613133100634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

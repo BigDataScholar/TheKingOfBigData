@@ -155,7 +155,7 @@
 4. [3道常见的SQL笔试题，你要不要来试试](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B/3%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84SQL%E7%AC%94%E8%AF%95%E9%A2%98%EF%BC%8C%E4%BD%A0%E8%A6%81%E4%B8%8D%E8%A6%81%E6%9D%A5%E8%AF%95%E8%AF%95.md)
 5. [系列文章一：精选大数据面试真题10道（混合型）-附答案详细解析](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247490454&idx=1&sn=df5243b8ff5610b2db4c286b99bcf70b&chksm=e8d84344dfafca529409da02e146c11ad06796eee7bdfba600277614dc298827faeb73b3bb2b&token=1819206302&lang=zh_CN#rd)
 6. [面试系列二：精选大数据面试真题JVM专项-附答案详细解析](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247490676&idx=1&sn=867b21a21cf74ef1ef17cdc96440da86&chksm=e8d844a6dfafcdb0ab18b4f8fd79421986e35a86de931b3d4604d7a2b15a970e8a7d7eb5b200&token=1819206302&lang=zh_CN#rd)
-
+7. [看完了108份面试题，我为你总结出了这 10 个【Hive】高频考点（建议收藏）](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E9%9D%A2%E8%AF%95%E6%9D%80%E6%8B%9B/%E7%9C%8B%E5%AE%8C%E4%BA%86108%E4%BB%BD%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%8C%E6%88%91%E4%B8%BA%E4%BD%A0%E6%80%BB%E7%BB%93%E5%87%BA%E4%BA%86%E8%BF%99%2010%20%E4%B8%AA%E3%80%90Hive%E3%80%91%E9%AB%98%E9%A2%91%E8%80%83%E7%82%B9%EF%BC%88%E5%BB%BA%E8%AE%AE%E6%94%B6%E8%97%8F%EF%BC%89.md)
 
 
 ### 程序人生
