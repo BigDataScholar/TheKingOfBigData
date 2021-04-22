@@ -104,6 +104,10 @@
 5. [实时分析数据库 Druid，Mark 一下](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%85%B6%E4%BB%96%E7%BB%84%E4%BB%B6/%E5%AE%9E%E6%97%B6%E5%88%86%E6%9E%90%E6%95%B0%E6%8D%AE%E5%BA%93%20Druid%EF%BC%8CMark%20%E4%B8%80%E4%B8%8B.md)
 
 
+
+
+
+
 ### [大数据实战]电商用户行为数据分析
 
 1. [基于 flink 的电商用户行为数据分析【1】项目整体介绍](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E5%9F%BA%E4%BA%8Eflink%E7%9A%84%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E3%80%901%E3%80%91%20%E9%A1%B9%E7%9B%AE%E6%95%B4%E4%BD%93%E4%BB%8B%E7%BB%8D.md)
@@ -158,11 +162,10 @@
 2. [简单谈谈最近在看的几本书「数据中台，用户画像」](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%AE%80%E5%8D%95%E8%B0%88%E8%B0%88%E6%9C%80%E8%BF%91%E5%9C%A8%E7%9C%8B%E7%9A%84%E5%87%A0%E6%9C%AC%E4%B9%A6%E3%80%8C%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%8F%B0%EF%BC%8C%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%E3%80%8D.md)
 3. [[云上有为 · 未来无界] 2021上海站 ECUG Con 第一天回忆录](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%5B%E4%BA%91%E4%B8%8A%E6%9C%89%E4%B8%BA%20%C2%B7%20%E6%9C%AA%E6%9D%A5%E6%97%A0%E7%95%8C%5D%202021%E4%B8%8A%E6%B5%B7%E7%AB%99%20ECUG%20Con%20%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%9B%9E%E5%BF%86%E5%BD%95.md)
 
+
 ### 中间件
+
 1. [从 0 到 1 学习 elasticsearch ，这一篇就够了！(建议收藏)](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E4%BB%8E%200%20%E5%88%B0%201%20%E5%AD%A6%E4%B9%A0%20elasticsearch%20%EF%BC%8C%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86%EF%BC%81(%E5%BB%BA%E8%AE%AE%E6%94%B6%E8%97%8F).md)
-
-
-
 
 ### 其他技术
 
@@ -176,8 +179,6 @@
 8. [零基础学Docker【4】 | 一文带你理解Docker镜像原理之联合文件系统](https://alice.blog.csdn.net/article/details/109638410)
 9. [万字长文带你快速了解并上手Testcontainers](https://alice.blog.csdn.net/article/details/111790143)
 
-
-
 ### 企业级真实应用
 1. [腾讯基于 Flink SQL 的功能扩展与深度优化实践](https://mp.weixin.qq.com/s/vgpeZKFR13sSPwvtPvaDNA)
 2. [网易云音乐基于 Flink + Kafka 的实时数仓建设实践](https://mp.weixin.qq.com/s/JcuW0_YDQj0rlgPMmuwzYQ)
@@ -186,6 +187,7 @@
 5. [分析 BAT 互联网巨头在大数据方向布局及大数据未来发展趋势](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&tempkey=MTEwMV9qbmlobnBUUXNVNDVOb3d6Vk1BWlRhUExybUJnYmhrRExWTllDT2FNRzVWRC1lb1JuYzdUQVl4bkI0QnUwckNSN3g1dTQ1cGdQMVYyZktmNWMtelVIVV9PWmZzR1NpVHVoQTI0Z0k2emNrN0ZFSmNPODV2VFVZcVRkZmJodDRjeERpakQxQlZ6RmlkOWlodzZPRmhETE05Y2dlOHRaYTNRN0VFbVJnfn4%3D&chksm=68d842d55fafcbc37adf1768525d80aabf26baf743c145b6c10b31fb801b55e5b22c1b7bbd59&__mpa_temp_link_flag=1&token=330116486#rd)
 6. [结合公司业务分析离线数仓建设](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247490484&idx=1&sn=6f26e9c4ded5188748d1bf9a4be72a20&chksm=e8d84366dfafca70c6f36ba84a6c43ebf59b4a7898f20598f0d3cea9a4579f442c67473c8ef3&token=1819206302&lang=zh_CN#rd)
 7. [网易云音乐数仓维度建模实践-模型设计篇](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&tempkey=MTEwM184TW5iS04wSDY1djhaSjduckJ2QTJHbEszVi00SjBOcFZQUkNJby1ReEpIWWtFNURHQ0dKdE9NOHU1TXByMWN6Zy1VOXdwX2xZeFM3T2dWbENWckhuaGM0TzlLUkRWVVY4N1M0bE40dm1ySjd0UFdmcWE0NDhkWDllR0hHb0lPdVdab1VFWEVTUE11YURNOXVwN1lBbjN3UTFUZXM0S3dwNkU1RGhBfn4%3D&chksm=68dbb8705fac31664b48442294a3b4f61175f480f05ea5320a3126c038d99da5669169e346d5&__mpa_temp_link_flag=1&token=1690256264#rd)
+8. [Apache Doris 在京东广告的应用实践 ](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247493960&idx=1&sn=ccfa5073bf7d47eb85cfe9cf2475eecf&chksm=e8dbb19adfac388c36484241ddf78236f8af533ad159870be36c56cb3f528e35529cb28d55d3&token=1073059733&lang=zh_CN#rd)
 
 
 ### 超强总结
@@ -198,6 +200,9 @@
 
 ### 精华面经
 1. [美团优选大数据开发岗面试真题-附答案详细解析](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492683&idx=1&sn=6a7483a9ad93493555a52a419b960ed1&chksm=e8dbbc99dfac358f95524c7bc90a4a2dc4699ce376f19b613b2aee984bb03b1a31da9cd8cd7e&token=1777830110&lang=zh_CN#rd)
+
+### 有趣有料
+1. [ETL和ELT到底有啥区别？？？](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247494017&idx=1&sn=92c3f3991eeece3d092eeaa69bc25e89&chksm=e8dbb153dfac3845510b85da4c583bf3a2343e51b8180f908a43537173cebdbe14277558dbd7&token=1073059733&lang=zh_CN#rd)
 
 ### 福利
 
