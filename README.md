@@ -8,7 +8,7 @@
 
 
   <p align="center">     
-  
+
   <a href="https://github.com/BigDataScholar/TheKingOfBigData" target="_blank">                                                                               
   	<img src="https://img-blog.csdnimg.cn/20210210005107102.png" width=""/>                                                
   </a>                                                                                                                                             
@@ -199,6 +199,8 @@
 4. [基于 Flink SQL 构建流批一体的 ETL 数据集成](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492119&idx=1&sn=f382fb2cb02079319835d432baaecb2b&chksm=e8dbbac5dfac33d363198239e125113be797842abcd33841ae71d1bb366368e0a636b729e1d3&token=1272273277&lang=zh_CN#rd)
 5. [推荐一些热门的DevOps工具](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492239&idx=1&sn=47a8d70793326a3a97f61ccb9a4d181e&chksm=e8dbba5ddfac334b53b6c20ffcde7322b8c61106e0c1a2120604731fe0aadefe4ee17386aca6&token=1272273277&lang=zh_CN#rd)
 6. [使用 Flink 前需要知道的 10 个『陷阱』](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492303&idx=1&sn=3c86c64c9de9ef72453efac1740a642a&chksm=e8dbba1ddfac330bbb898a54485a3e7bab7366fd884beab134402fc4d9822258e904f2069afa&token=1272273277&lang=zh_CN#rd)
+7. [干货 | 实时数仓中的消息队列技术深度对比](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247494119&idx=1&sn=22486e3a4c85063f6e261a91a26226ca&chksm=e8dbb135dfac3823c6c81cf7c68179f6a2907cf10a4c9e002d67b8fb39cc00a3213db891f998&token=2100073657&lang=zh_CN#rd)
+8. [面试必备 | 10道海量数据处理，你会几道？](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247494221&idx=1&sn=05fffc2c0353007f1c76db578fc84a69&chksm=e8dbb29fdfac3b897fd3316ccde51a49b108a32a138e7c0ba054943fe2849c34717f531020e1&token=2100073657&lang=zh_CN#rd)
 
 ### 精华面经
 1. [美团优选大数据开发岗面试真题-附答案详细解析](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492683&idx=1&sn=6a7483a9ad93493555a52a419b960ed1&chksm=e8dbbc99dfac358f95524c7bc90a4a2dc4699ce376f19b613b2aee984bb03b1a31da9cd8cd7e&token=1777830110&lang=zh_CN#rd)
