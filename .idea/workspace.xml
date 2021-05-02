@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1f4b9d3c-5ec4-4f92-99a5-47a66eed35c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,13 +154,7 @@
       <workItem from="1619103265928" duration="2606000" />
       <workItem from="1619341518635" duration="2040000" />
       <workItem from="1619600545573" duration="612000" />
-    </task>
-    <task id="LOCAL-00046" summary="更新readme">
-      <created>1613571704085</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1613571704085</updated>
+      <workItem from="1619927909931" duration="308000" />
     </task>
     <task id="LOCAL-00047" summary="更新readme">
       <created>1613571836781</created>
@@ -497,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619343259691</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="新增一篇 MapReduce 的核心知识点 文章">
+      <created>1619928068484</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1619928068484</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="更新Hbase的文章的排版" />
     <MESSAGE value="更新flink的文章的排版" />
     <MESSAGE value="更新readme文章目录" />
     <MESSAGE value="添加了flink和spark的入门代码" />
@@ -542,7 +543,8 @@
     <MESSAGE value="更新readme文件，添加一篇文章链接" />
     <MESSAGE value="更新readme文章链接" />
     <MESSAGE value="更新readme,新增2篇文章链接" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新readme,新增2篇文章链接" />
+    <MESSAGE value="新增一篇 MapReduce 的核心知识点 文章" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增一篇 MapReduce 的核心知识点 文章" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1614052957576">
@@ -557,11 +559,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="506" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1614136268236" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1619343257857">
+    <state x="400" y="0" key="CommitChangelistDialog2" timestamp="1619928067024">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1619343257857" />
-    <state x="400" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1619107961417" />
+    <state x="400" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1619928067024" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1613631431416">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -575,11 +577,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615778393772" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1619343261061">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1619928070592">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1619343261061" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1619107963408" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1619928070592" />
     <state x="572" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613133100634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

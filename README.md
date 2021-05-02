@@ -45,7 +45,6 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
-
 ## 文章目录
 
 > 以下列出的是作者对原创或非原创的一些文章和一些学习资源做了一个汇总，会持续更新！如果帮到了您，请点个star支持一下，谢谢！
@@ -73,7 +72,7 @@
 4. [[前方高能] HDFS 的架构，你吃透了吗？](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hadoop/%5B%E5%89%8D%E6%96%B9%E9%AB%98%E8%83%BD%5D%20HDFS%20%E7%9A%84%E6%9E%B6%E6%9E%84%EF%BC%8C%E4%BD%A0%E5%90%83%E9%80%8F%E4%BA%86%E5%90%97%EF%BC%9F.md)
 
 5. [[干货]HDFS是怎么做文件管理和容错的？](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hadoop/%5B%E5%B9%B2%E8%B4%A7%5DHDFS%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%92%8C%E5%AE%B9%E9%94%99%E7%9A%84%EF%BC%9F.md)
-
+6. [MapReduce 的核心知识点，你都 get 到了吗 ?（干货文章，建议收藏！）](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hadoop/MapReduce%20%E7%9A%84%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86%E7%82%B9%EF%BC%8C%E4%BD%A0%E9%83%BD%20get%20%E5%88%B0%E4%BA%86%E5%90%97%20_%EF%BC%88%E5%B9%B2%E8%B4%A7%E6%96%87%E7%AB%A0%EF%BC%8C%E5%BB%BA%E8%AE%AE%E6%94%B6%E8%97%8F%EF%BC%81%EF%BC%89.md) 
 
 ### Hive
 
