@@ -45,6 +45,7 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
+
 ## 文章目录
 
 > 以下列出的是作者对原创或非原创的一些文章和一些学习资源做了一个汇总，会持续更新！如果帮到了您，请点个star支持一下，谢谢！
@@ -167,7 +168,7 @@
 ### 中间件
 
 1. [从 0 到 1 学习 elasticsearch ，这一篇就够了！(建议收藏)](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E4%BB%8E%200%20%E5%88%B0%201%20%E5%AD%A6%E4%B9%A0%20elasticsearch%20%EF%BC%8C%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86%EF%BC%81(%E5%BB%BA%E8%AE%AE%E6%94%B6%E8%97%8F).md)
-
+2. [2w字，一文干掉 Kafka](https://mp.weixin.qq.com/s/7MLiPppz_euiCslPpsnz6A)
 ### 其他技术
 
 1. [零基础带你硬核了解并上手“Ansible“!](https://alice.blog.csdn.net/article/details/109771486)
@@ -200,12 +201,13 @@
 6. [使用 Flink 前需要知道的 10 个『陷阱』](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492303&idx=1&sn=3c86c64c9de9ef72453efac1740a642a&chksm=e8dbba1ddfac330bbb898a54485a3e7bab7366fd884beab134402fc4d9822258e904f2069afa&token=1272273277&lang=zh_CN#rd)
 7. [干货 | 实时数仓中的消息队列技术深度对比](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247494119&idx=1&sn=22486e3a4c85063f6e261a91a26226ca&chksm=e8dbb135dfac3823c6c81cf7c68179f6a2907cf10a4c9e002d67b8fb39cc00a3213db891f998&token=2100073657&lang=zh_CN#rd)
 8. [面试必备 | 10道海量数据处理，你会几道？](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247494221&idx=1&sn=05fffc2c0353007f1c76db578fc84a69&chksm=e8dbb29fdfac3b897fd3316ccde51a49b108a32a138e7c0ba054943fe2849c34717f531020e1&token=2100073657&lang=zh_CN#rd)
-
+9. [工作四年，分享50个优化代码的妙招](https://mp.weixin.qq.com/s/AKVdTdfbClN_bx4wk54NhA)
 ### 精华面经
 1. [美团优选大数据开发岗面试真题-附答案详细解析](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492683&idx=1&sn=6a7483a9ad93493555a52a419b960ed1&chksm=e8dbbc99dfac358f95524c7bc90a4a2dc4699ce376f19b613b2aee984bb03b1a31da9cd8cd7e&token=1777830110&lang=zh_CN#rd)
 
 ### 有趣有料
 1. [ETL和ELT到底有啥区别？？？](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247494017&idx=1&sn=92c3f3991eeece3d092eeaa69bc25e89&chksm=e8dbb153dfac3845510b85da4c583bf3a2343e51b8180f908a43537173cebdbe14277558dbd7&token=1073059733&lang=zh_CN#rd)
+2. [为什么我们选择基于 Flink 搭建实时个性化营销平台？](https://mp.weixin.qq.com/s/451BFoJDbkvlDc0inOukcw)
 
 ### 福利
 
