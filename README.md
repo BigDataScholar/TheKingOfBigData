@@ -79,6 +79,8 @@
 
 1. [Hive查询的18种方式，你都学会了吗](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hive/Hive%E6%9F%A5%E8%AF%A2%E7%9A%8418%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%8C%E4%BD%A0%E9%83%BD%E5%AD%A6%E4%BC%9A%E4%BA%86%E5%90%97.md)
 2. [[干货]关于Hive命令的7个小技巧](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/hive/%5B%E5%B9%B2%E8%B4%A7%5D%E5%85%B3%E4%BA%8EHive%E5%91%BD%E4%BB%A4%E7%9A%847%E4%B8%AA%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
+3. [硬刚Hive | 4万字基础调优面试小总结](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247496350&idx=1&sn=1388a9267dd14362b36f8c1c9994204f&chksm=e8dbaa4cdfac235a261e9ed620879a0e703c5b3eac6e7a0b1b6f3129f3378fe208491764f25e&token=1693301572&lang=zh_CN#rd)
+4. [教你用Hive/Spark实现图谱计算](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247496298&idx=1&sn=ed17a5d93b096405c386cd3faf5854a7&chksm=e8dbaab8dfac23ae13ce6293d3f0837f519bb4595ac0a746481da36797d197debebdabed4248&token=1693301572&lang=zh_CN#rd)
 
 
 ### Spark
@@ -163,12 +165,13 @@
 1. [程序人生/简单谈谈最近在看的几本书「数据中台，用户画像」](https://github.com/BigDataScholar/TheKingOfBigData/tree/master/note/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F)
 2. [简单谈谈最近在看的几本书「数据中台，用户画像」](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%AE%80%E5%8D%95%E8%B0%88%E8%B0%88%E6%9C%80%E8%BF%91%E5%9C%A8%E7%9C%8B%E7%9A%84%E5%87%A0%E6%9C%AC%E4%B9%A6%E3%80%8C%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%8F%B0%EF%BC%8C%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F%E3%80%8D.md)
 3. [[云上有为 · 未来无界] 2021上海站 ECUG Con 第一天回忆录](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%5B%E4%BA%91%E4%B8%8A%E6%9C%89%E4%B8%BA%20%C2%B7%20%E6%9C%AA%E6%9D%A5%E6%97%A0%E7%95%8C%5D%202021%E4%B8%8A%E6%B5%B7%E7%AB%99%20ECUG%20Con%20%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%9B%9E%E5%BF%86%E5%BD%95.md)
-
+4. [00后程序员摸爬滚打近一年，为学弟学妹们总结出了以下 7 条人生建议（建议收藏）](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/00%E5%90%8E%E7%A8%8B%E5%BA%8F%E5%91%98%E6%91%B8%E7%88%AC%E6%BB%9A%E6%89%93%E8%BF%91%E4%B8%80%E5%B9%B4%EF%BC%8C%E4%B8%BA%E5%AD%A6%E5%BC%9F%E5%AD%A6%E5%A6%B9%E4%BB%AC%E6%80%BB%E7%BB%93%E5%87%BA%E4%BA%86%E4%BB%A5%E4%B8%8B%207%20%E6%9D%A1%E4%BA%BA%E7%94%9F%E5%BB%BA%E8%AE%AE%EF%BC%88%E5%BB%BA%E8%AE%AE%E6%94%B6%E8%97%8F%EF%BC%89.md)
 
 ### 中间件
 
 1. [从 0 到 1 学习 elasticsearch ，这一篇就够了！(建议收藏)](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E4%BB%8E%200%20%E5%88%B0%201%20%E5%AD%A6%E4%B9%A0%20elasticsearch%20%EF%BC%8C%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86%EF%BC%81(%E5%BB%BA%E8%AE%AE%E6%94%B6%E8%97%8F).md)
 2. [2w字，一文干掉 Kafka](https://mp.weixin.qq.com/s/7MLiPppz_euiCslPpsnz6A)
+3. [大白话认识 Kafka 背后优秀的架构设计](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247496279&idx=1&sn=37467e6ea62d6c9ab9575403da94eee9&chksm=e8dbaa85dfac23935fc2a7b86936b0018d864c069aee7b77643936166986cf6021a8fa0f8e85&token=1693301572&lang=zh_CN#rd)
 ### 其他技术
 
 1. [零基础带你硬核了解并上手“Ansible“!](https://alice.blog.csdn.net/article/details/109771486)
@@ -190,7 +193,7 @@
 6. [结合公司业务分析离线数仓建设](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247490484&idx=1&sn=6f26e9c4ded5188748d1bf9a4be72a20&chksm=e8d84366dfafca70c6f36ba84a6c43ebf59b4a7898f20598f0d3cea9a4579f442c67473c8ef3&token=1819206302&lang=zh_CN#rd)
 7. [网易云音乐数仓维度建模实践-模型设计篇](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&tempkey=MTEwM184TW5iS04wSDY1djhaSjduckJ2QTJHbEszVi00SjBOcFZQUkNJby1ReEpIWWtFNURHQ0dKdE9NOHU1TXByMWN6Zy1VOXdwX2xZeFM3T2dWbENWckhuaGM0TzlLUkRWVVY4N1M0bE40dm1ySjd0UFdmcWE0NDhkWDllR0hHb0lPdVdab1VFWEVTUE11YURNOXVwN1lBbjN3UTFUZXM0S3dwNkU1RGhBfn4%3D&chksm=68dbb8705fac31664b48442294a3b4f61175f480f05ea5320a3126c038d99da5669169e346d5&__mpa_temp_link_flag=1&token=1690256264#rd)
 8. [Apache Doris 在京东广告的应用实践 ](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247493960&idx=1&sn=ccfa5073bf7d47eb85cfe9cf2475eecf&chksm=e8dbb19adfac388c36484241ddf78236f8af533ad159870be36c56cb3f528e35529cb28d55d3&token=1073059733&lang=zh_CN#rd)
-
+9. [猿辅导 x DorisDB：构建统一OLAP平台，全面升级数据分析能力](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247496016&idx=2&sn=ffe549dccf3c72376478a29ba35359cf&chksm=e8dba982dfac20949ebc4acb759f30284b7a9e6f5eb3eed8c0f4e246d3fe4207c8aa3fb15788&token=1693301572&lang=zh_CN#rd)
 
 ### 超强总结
 1. [万字详解整个数据仓库建设体系](https://mp.weixin.qq.com/s/EHzya2zscZTnRe0GCVK4cA)
@@ -202,12 +205,18 @@
 7. [干货 | 实时数仓中的消息队列技术深度对比](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247494119&idx=1&sn=22486e3a4c85063f6e261a91a26226ca&chksm=e8dbb135dfac3823c6c81cf7c68179f6a2907cf10a4c9e002d67b8fb39cc00a3213db891f998&token=2100073657&lang=zh_CN#rd)
 8. [面试必备 | 10道海量数据处理，你会几道？](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247494221&idx=1&sn=05fffc2c0353007f1c76db578fc84a69&chksm=e8dbb29fdfac3b897fd3316ccde51a49b108a32a138e7c0ba054943fe2849c34717f531020e1&token=2100073657&lang=zh_CN#rd)
 9. [工作四年，分享50个优化代码的妙招](https://mp.weixin.qq.com/s/AKVdTdfbClN_bx4wk54NhA)
+10. [使用Redis，你必须知道的21个注意要点](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247495966&idx=1&sn=4e005615a68d1f3a81f19dbfc9da094e&chksm=e8dba9ccdfac20da6b2d78aa4eca9700c107797203368f8cbc9aa62a148549c71ecd1e8a1f24&token=1693301572&lang=zh_CN#rd)
+
 ### 精华面经
 1. [美团优选大数据开发岗面试真题-附答案详细解析](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492683&idx=1&sn=6a7483a9ad93493555a52a419b960ed1&chksm=e8dbbc99dfac358f95524c7bc90a4a2dc4699ce376f19b613b2aee984bb03b1a31da9cd8cd7e&token=1777830110&lang=zh_CN#rd)
 
 ### 有趣有料
 1. [ETL和ELT到底有啥区别？？？](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247494017&idx=1&sn=92c3f3991eeece3d092eeaa69bc25e89&chksm=e8dbb153dfac3845510b85da4c583bf3a2343e51b8180f908a43537173cebdbe14277558dbd7&token=1073059733&lang=zh_CN#rd)
 2. [为什么我们选择基于 Flink 搭建实时个性化营销平台？](https://mp.weixin.qq.com/s/451BFoJDbkvlDc0inOukcw)
+3. [以直播平台监控用户弹幕为例详解 Flink CEP](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247496065&idx=1&sn=fc03486210be0a4bd447761b3b883bd3&chksm=e8dba953dfac204543b0e4ae750af0799b96f626d2de868f31b94151d4d148430dea062b4f7c&token=1693301572&lang=zh_CN#rd)
+4. [数据仓库领域常见建模方法及实例演示](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247496184&idx=1&sn=3e85a216b1f4b1c69811b4064999fdce&chksm=e8dba92adfac203cd521815ef23465a56cd9904d08b6d349c92aad9152f041fdb099752a437a&token=1693301572&lang=zh_CN#rd)
+5. [数据地图？地图数据？傻傻分不清楚！](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247495889&idx=1&sn=e44908c9982f2fd8e2ae6d83c09d3b62&chksm=e8dba803dfac2115425036af859c83fda42ac7cd002b581c138331c6c3c316905536d9a5d560&token=1693301572&lang=zh_CN#rd)
+
 
 ### 福利
 

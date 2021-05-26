@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f4b9d3c-5ec4-4f92-99a5-47a66eed35c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/note/程序人生/00后程序员摸爬滚打近一年，为学弟学妹们总结出了以下 7 条人生建议（建议收藏）.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +49,15 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1nxgMdYXnBJeEVuDVhFgeUWPCfH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -159,14 +163,7 @@
       <workItem from="1620313245434" duration="1197000" />
       <workItem from="1620352892843" duration="2023000" />
       <workItem from="1620439204571" duration="254000" />
-      <workItem from="1622041556065" duration="709000" />
-    </task>
-    <task id="LOCAL-00049" summary="更新readme">
-      <created>1613626248093</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1613626248093</updated>
+      <workItem from="1622041556065" duration="1360000" />
     </task>
     <task id="LOCAL-00050" summary="更新readme">
       <created>1613631306716</created>
@@ -504,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620353653087</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="新添加一篇文章">
+      <created>1622042401745</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1622042401746</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,7 +528,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="更新readme文章目录" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="添加了flink和spark的入门代码" />
     <MESSAGE value="删除代码" />
     <MESSAGE value="调整文章格式" />
@@ -549,26 +553,23 @@
     <MESSAGE value="更新readme,新增2篇文章链接" />
     <MESSAGE value="新增一篇 MapReduce 的核心知识点 文章" />
     <MESSAGE value="更新 readme 文章链接" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新 readme 文章链接" />
+    <MESSAGE value="新添加一篇文章" />
+    <option name="LAST_COMMIT_MESSAGE" value="新添加一篇文章" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1614052957576">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1614052957576" />
-    <state x="504" y="207" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612337814453">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="504" y="207" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1612337814453" />
     <state x="506" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1614136268236">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="506" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1614136268236" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1620353651884">
+    <state x="400" y="0" key="CommitChangelistDialog2" timestamp="1622042395685">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1620353651884" />
-    <state x="400" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1619928247486" />
+    <state x="400" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1622042395685" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1613631431416">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -577,29 +578,19 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1617869639968" />
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613104555585" />
     <state x="270" y="57" key="SettingsEditor" timestamp="1615778393772">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615778393772" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1620353654761">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1622042404864">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1620353654761" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1619928250445" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1622042404864" />
     <state x="494" y="155" key="com.intellij.ide.util.TipDialog" timestamp="1620439204712">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="494" y="155" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1620439204712" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1620313242004" />
-    <state x="572" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613133100634">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="572" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1612854309960" />
-    <state x="572" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1613133100634" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1613108118345">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1613108118345" />
   </component>
 </project>
