@@ -2,13 +2,13 @@
 
 ## 友情提示
 
-> 1. 联系我：如要进群或者有问题咨询，请联系我（备注来自`GitHub`，直接说明问题）
-> 2. 该仓库会持续更新福利干货，记得 star 持续关注!
+> 1. 联系我：如要进大数据优质社群或者有问题咨询，请联系我（备注来自`GitHub`）
+> 2. 该仓库会持续更新福利干货，如果对您有点帮助，记得 star 持续关注 !
 
 
 
   <p align="center">     
-
+  
   <a href="https://github.com/BigDataScholar/TheKingOfBigData" target="_blank">                                                                               
   	<img src="https://img-blog.csdnimg.cn/20210210005107102.png" width=""/>                                                
   </a>                                                                                                                                             
@@ -45,7 +45,6 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
-
 ## 文章目录
 
 > 以下列出的是作者对原创或非原创的一些文章和一些学习资源做了一个汇总，会持续更新！如果帮到了您，请点个star支持一下，谢谢！
@@ -216,6 +215,7 @@
 3. [以直播平台监控用户弹幕为例详解 Flink CEP](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247496065&idx=1&sn=fc03486210be0a4bd447761b3b883bd3&chksm=e8dba953dfac204543b0e4ae750af0799b96f626d2de868f31b94151d4d148430dea062b4f7c&token=1693301572&lang=zh_CN#rd)
 4. [数据仓库领域常见建模方法及实例演示](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247496184&idx=1&sn=3e85a216b1f4b1c69811b4064999fdce&chksm=e8dba92adfac203cd521815ef23465a56cd9904d08b6d349c92aad9152f041fdb099752a437a&token=1693301572&lang=zh_CN#rd)
 5. [数据地图？地图数据？傻傻分不清楚！](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247495889&idx=1&sn=e44908c9982f2fd8e2ae6d83c09d3b62&chksm=e8dba803dfac2115425036af859c83fda42ac7cd002b581c138331c6c3c316905536d9a5d560&token=1693301572&lang=zh_CN#rd)
+6. [漫说数据湖 | 如何建湖？如何做数据ETL？为什么大数据需要数据湖?](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496226&idx=1&sn=348fb82d271e6547403513dc8d67642f&chksm=c2d7f5abf5a07cbdf26f9e0086ced3bcd1038bf3a5fb514515bb498cf242ff4cae2baebe6829&token=1681044289&lang=zh_CN#rd)
 
 
 ### 福利
@@ -228,9 +228,26 @@
 6. 持续更新的福利 🚀[「大数据梦想家」学习资料共享](https://shimo.im/docs/C8Y6Jjtw9ryRpVJH)🚀
 
 
+## 彩蛋
+
+ **我在经历了太多技术群沦落为广告群，水文群，聊天群之后，立志打造一个真正的技术交流社区，于是和我现在的管理成立了「大数据梦想家」技术交流群，希望有更多热爱并渴望学习大数据技术的小伙伴加入到我们的队伍。以下是部分群规，群里设置有严格的制度以及不错的福利制度。** 
+
+ ![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/BFibC8wtke3uxQnibqTIOJwsYIaaApsR0Iyu6s69YPhxwgiaJpKrBSeszRiaqm81N1fEGGde5FMkQqIxgxBSqdibljg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1) 
+
+  
+
+**这是我技术群的福利资料，🚀https://shimo.im/docs/C8Y6Jjtw9ryRpVJH**
+
+ ![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/BFibC8wtke3uxQnibqTIOJwsYIaaApsR0Iueuj35q8DEycscBYoUmp4pVn4tBUUHSF4czfRSSIJsrzuicmscaGWHw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1) 
 
 
-## 其他
+
+**想了解更多信息，加入我们的学习群，可以关注下方公众号【大数据梦想家】，后台回复“**加群**”即可** 
+
+
+
+
+ ## 其他
 
 ### 联系我
 
@@ -244,12 +261,11 @@
 
 ### 公众号
 
-
 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号**大数据梦想家**
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210303133100452.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDMxODgzMA==,size_16,color_FFFFFF,t_70)
 
-​          
 
 **欲戴其冠，必承其重！ TheKingOfBigData，We'll carry on ！**
 
+ 
