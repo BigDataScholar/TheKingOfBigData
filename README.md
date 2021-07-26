@@ -16,6 +16,7 @@
 
 
 <p align="center">
+
     <a href="#微信" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/WeChat-%E5%85%AC%E4%BC%97%E5%8F%B7-green" alt="公众号" />
     </a>
@@ -170,6 +171,12 @@
 4. [00后程序员摸爬滚打近一年，为学弟学妹们总结出了以下 7 条人生建议（建议收藏）](https://github.com/BigDataScholar/TheKingOfBigData/blob/master/note/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/00%E5%90%8E%E7%A8%8B%E5%BA%8F%E5%91%98%E6%91%B8%E7%88%AC%E6%BB%9A%E6%89%93%E8%BF%91%E4%B8%80%E5%B9%B4%EF%BC%8C%E4%B8%BA%E5%AD%A6%E5%BC%9F%E5%AD%A6%E5%A6%B9%E4%BB%AC%E6%80%BB%E7%BB%93%E5%87%BA%E4%BA%86%E4%BB%A5%E4%B8%8B%207%20%E6%9D%A1%E4%BA%BA%E7%94%9F%E5%BB%BA%E8%AE%AE%EF%BC%88%E5%BB%BA%E8%AE%AE%E6%94%B6%E8%97%8F%EF%BC%89.md)
 5. [上海有哪些牛逼的互联网公司？](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496844&idx=1&sn=2113ff8b8d39b9eb7bd017e464865a2f&chksm=c2d7f305f5a07a1345db09be91ef2a4f16a6714bd052860e8e06bc886960a490aefd7116f303&token=2075738930&lang=zh_CN#rd)
 6. [校招进腾讯，二本也可以？](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496426&idx=1&sn=b9de117476d564271fb763dc65bcd896&chksm=c2d7f563f5a07c75a303b6f4491be9dd455a3e4a43a941e31eedb8576f1fd9388c5b7434b440&token=2075738930&lang=zh_CN#rd)
+7. [大数据技术专家：写给大数据初级开发者或准备转行大数据的人](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497188&idx=1&sn=60000b45024ddeea6c826ab5d37aa84b&chksm=c2d7f26df5a07b7b5c3d8387365abbee073f0627d5ba0e4b555596974130a5ca851d57782c44&token=231732813&lang=zh_CN#rd)
+8. [张一鸣: 我发现混的好的人，全都有同一个特质](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497242&idx=1&sn=5593e401fb14466a740d821b27306ae9&chksm=c2d7f193f5a078856fce05bda4c024e3120efaf1cd0ca9ad1e79ab412ba8bf827504b7e1a632&token=231732813&lang=zh_CN#rd)
+9. [程序员的酒后真言](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497254&idx=1&sn=d6097fb235f1ba9b8700f93f030d3c0a&chksm=c2d7f1aff5a078b9067fcf1f4b455b12adeb534f9ff49b87168584dbf2df6c3f5182fe4290e3&token=231732813&lang=zh_CN#rd)
+10. [假装内卷，才是互联网人的噩梦](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497312&idx=1&sn=d1e3b4e359569d7d038cd2d877ffcff8&chksm=c2d7f1e9f5a078ff84b913e92feea5284e191e5c901ce04c102623bb198379a6fd460b7b0336&token=231732813&lang=zh_CN#rd)
+11. [参加七牛云“PISA”发布会随想录](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497732&idx=1&sn=90e303afbb4e8ebcab88514e6b38ab7e&chksm=c2d7ff8df5a0769b451523dc6474d196a3a123190ba7ecefeaf8d802aa5d0a1895255c2e090c&token=231732813&lang=zh_CN#rd)
+12. [快四十了，意外失业的我该如何面对？](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497835&idx=1&sn=0049bf396cafb808d3ccf7941aa345d4&chksm=c2d7ffe2f5a076f436c4b0257e4c3be00bc4ff7c453b24fa904459646c990ba6709b40ecf0b7&token=231732813&lang=zh_CN#rd)
 
 ###  🥥 中间件
 
@@ -213,6 +220,11 @@
 11. [有了这 27 个Linux 技巧，让你工作效率翻倍！](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496830&idx=1&sn=0ce5729efc6e0120cc6f3fd8bb84d348&chksm=c2d7f3f7f5a07ae1fcc44171c1e1e1fffcd9ef4a75c34a2e3bb040eb49315436cc8e8729aaf3&token=2075738930&lang=zh_CN#rd)
 12. [超牛逼！100 个开箱即用的 Shell 脚本，拿好了~](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496656&idx=1&sn=876c92caa1f470e3bd8f0652e36b7157&chksm=c2d7f459f5a07d4fd22b2d6a81dd1aa4cdfb26261b7e0870d15580391099880658aafe8a63e6&token=2075738930&lang=zh_CN#rd)
 13. [互联网大厂的秋招干货总结 | 建议收藏](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496522&idx=1&sn=81759a0ccef3d0ecd9255a2c3996b72d&chksm=c2d7f4c3f5a07dd5d8a48bca1bebb5c37cce5114665ebb750e449671828520f0fe251efa3503&token=2075738930&lang=zh_CN#rd)
+14. [数仓基础知识的超全概括(建议收藏)！](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497354&idx=1&sn=3044ceb4f4400351122af1f162715562&chksm=c2d7f103f5a0781536f5dbc021c1122783597dfa0fbde602c8cedc408c3de84c3d8b81c0d2e1&token=231732813&lang=zh_CN#rd)
+15. [原来 Elasticsearch 还可以这么理解！](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497551&idx=1&sn=bf8c62d61e0a5d08e925bb83051b544a&chksm=c2d7f0c6f5a079d051b7d9440ec566d0a3affe824a79a045420c56510cca76b8a569ed8f46aa&token=231732813&lang=zh_CN#rd)
+16. [Flink吐血总结，学习与面试收藏这一篇就够了！！！](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497583&idx=1&sn=8696ee57091a2fe395c93a88847dea54&chksm=c2d7f0e6f5a079f045057fd0a2fc0f94d8304229bde6f14103152c82774b0184f876e4b52b1a&token=231732813&lang=zh_CN#rd)
+
+
 
 ###  ☕ 精华面经
 1. [美团优选大数据开发岗面试真题-附答案详细解析](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492683&idx=1&sn=6a7483a9ad93493555a52a419b960ed1&chksm=e8dbbc99dfac358f95524c7bc90a4a2dc4699ce376f19b613b2aee984bb03b1a31da9cd8cd7e&token=1777830110&lang=zh_CN#rd)
@@ -225,8 +237,14 @@
 5. [数据地图？地图数据？傻傻分不清楚！](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247495889&idx=1&sn=e44908c9982f2fd8e2ae6d83c09d3b62&chksm=e8dba803dfac2115425036af859c83fda42ac7cd002b581c138331c6c3c316905536d9a5d560&token=1693301572&lang=zh_CN#rd)
 6. [漫说数据湖 | 如何建湖？如何做数据ETL？为什么大数据需要数据湖?](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496226&idx=1&sn=348fb82d271e6547403513dc8d67642f&chksm=c2d7f5abf5a07cbdf26f9e0086ced3bcd1038bf3a5fb514515bb498cf242ff4cae2baebe6829&token=1681044289&lang=zh_CN#rd)
 7. [图解Git工作原理](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496767&idx=1&sn=bc90e1c900da05c53451145eed84438c&chksm=c2d7f3b6f5a07aa0a1160919bf67a624495bd1d7540d2b92790d8ce85545055c92844dc62c13&token=2075738930&lang=zh_CN#rd)
-8. [假如我是超级卷王 ... ](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496630&idx=1&sn=ee9cd0aab500c279938326bf8ae5401c&chksm=c2d7f43ff5a07d2990f8f966078ab254b3d1aa73d83f8875f0dcf597770a047230842c3efa51&token=2075738930&lang=zh_CN#rd)
+8. [因为一次 Kafka 宕机，我明白了 Kafka 高可用原理！](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497226&idx=1&sn=4cf0e2e42e46622d865182aca54648e6&chksm=c2d7f183f5a0789563341bb2026bc59024792c2f5da9301023d116a7a63061b1fdc0cf10de33&token=231732813&lang=zh_CN#rd)
 9. [上海有哪些互联网，你都知道么？](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496389&idx=1&sn=5b379ed66f353ce2553dc54fdbb998b6&chksm=c2d7f54cf5a07c5afa3088fcc29be0002a3be894cf1e514a19c8aef35c9202a11d417876bcf4&token=2075738930&lang=zh_CN#rd)
+
+### 🍹 休闲娱乐
+1. [假如我是超级卷王 ... ](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496630&idx=1&sn=ee9cd0aab500c279938326bf8ae5401c&chksm=c2d7f43ff5a07d2990f8f966078ab254b3d1aa73d83f8875f0dcf597770a047230842c3efa51&token=2075738930&lang=zh_CN#rd)
+2. [假如我拥有字节工牌](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497195&idx=1&sn=c81d3b138587afde29055651d45e5886&chksm=c2d7f262f5a07b749001a5832573c225df9c743a19add0e4092e86903661280d2ecef839422f&token=231732813&lang=zh_CN#rd)
+3. [程序员十二星座行为大赏(请对号入座)](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497615&idx=1&sn=8719d3fe0c4f7c6328e452f903b578df&chksm=c2d7f006f5a079105c48ff235e8c8dbf7b412710c778c7b6c3e91390d9a392cd06eb7dd35c6d&token=231732813&lang=zh_CN#rd)
+
 
 ###  🍈 福利
 
