@@ -8,7 +8,6 @@
 
 
   <p align="center">     
-
   <a href="https://github.com/BigDataScholar/TheKingOfBigData" target="_blank">                                                                               
   	<img src="https://img-blog.csdnimg.cn/20210210005107102.png" width=""/>                                                
   </a>                                                                                                                                             
@@ -16,7 +15,6 @@
 
 
 <p align="center">
-
     <a href="#微信" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/WeChat-%E5%85%AC%E4%BC%97%E5%8F%B7-green" alt="公众号" />
     </a>

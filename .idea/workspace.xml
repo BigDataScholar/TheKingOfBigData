@@ -22,7 +22,6 @@
     <list default="true" id="1f4b9d3c-5ec4-4f92-99a5-47a66eed35c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/note/面试杀招/3道常见的SQL笔试题，你要不要来试试.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +92,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -179,14 +180,11 @@
       <workItem from="1620439204571" duration="254000" />
       <workItem from="1622041556065" duration="2447000" />
       <workItem from="1622729702567" duration="1611000" />
-      <workItem from="1624294600914" duration="1670000" />
-    </task>
-    <task id="LOCAL-00052" summary="更新readme">
-      <created>1613633826745</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1613633826745</updated>
+      <workItem from="1624294600914" duration="3695000" />
+      <workItem from="1624507988755" duration="1799000" />
+      <workItem from="1626282362259" duration="1063000" />
+      <workItem from="1626919237222" duration="1338000" />
+      <workItem from="1627286897259" duration="760000" />
     </task>
     <task id="LOCAL-00053" summary="更新readme">
       <created>1613715075364</created>
@@ -524,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622732272559</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="更新 readme 文章链接">
+      <created>1624340468453</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1624340468453</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,7 +540,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -570,34 +587,5 @@
     <MESSAGE value="新添加一篇文章" />
     <MESSAGE value="更新 readme 文章链接" />
     <option name="LAST_COMMIT_MESSAGE" value="更新 readme 文章链接" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="506" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1614136268236">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="506" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1614136268236" />
-    <state x="400" y="0" key="CommitChangelistDialog2" timestamp="1622732271192">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1620353651884" />
-    <state x="400" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1622732271192" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1617869639968">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1617869639968" />
-    <state x="270" y="57" key="SettingsEditor" timestamp="1615778393772">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615778393772" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1622732273689">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1620353654761" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1622732273689" />
-    <state x="494" y="155" key="com.intellij.ide.util.TipDialog" timestamp="1620439204712">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="494" y="155" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1620439204712" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1620313242004" />
   </component>
 </project>
