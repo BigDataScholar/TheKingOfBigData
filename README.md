@@ -44,7 +44,6 @@
 
 
 <div>  <h3 align="center">King</h3>  </div>
-
 ## 文章目录
 
 > 以下列出的是作者对原创或非原创的一些文章和一些学习资源做了一个汇总，会持续更新！如果帮到了您，请点个star支持一下，谢谢！
@@ -175,6 +174,15 @@
 10. [假装内卷，才是互联网人的噩梦](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497312&idx=1&sn=d1e3b4e359569d7d038cd2d877ffcff8&chksm=c2d7f1e9f5a078ff84b913e92feea5284e191e5c901ce04c102623bb198379a6fd460b7b0336&token=231732813&lang=zh_CN#rd)
 11. [参加七牛云“PISA”发布会随想录](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497732&idx=1&sn=90e303afbb4e8ebcab88514e6b38ab7e&chksm=c2d7ff8df5a0769b451523dc6474d196a3a123190ba7ecefeaf8d802aa5d0a1895255c2e090c&token=231732813&lang=zh_CN#rd)
 12. [快四十了，意外失业的我该如何面对？](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497835&idx=1&sn=0049bf396cafb808d3ccf7941aa345d4&chksm=c2d7ffe2f5a076f436c4b0257e4c3be00bc4ff7c453b24fa904459646c990ba6709b40ecf0b7&token=231732813&lang=zh_CN#rd)
+13. [Data & Cloud Summit 2021 活动小记](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247498567&idx=1&sn=78e34d5ce740c9d045f90e74b1d04385&chksm=c2d7fccef5a075d8b974dcc9f9203327cf4757134ecee06dfe44ef631fe24488fc00c0ba9701&token=2144993046&lang=zh_CN#rd)
+14. [保研985，斩获ACM金牌 ！！！](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247498354&idx=1&sn=5be8b930e41d998677a7f2fae64f71f0&chksm=c2d7fdfbf5a074edd9356e104656386a42f5a8826ce3bbe8557470b3d654b46aa3f5cc728599&token=2144993046&lang=zh_CN#rd)
+15. [张一鸣：我的大学四年收获及工作感悟](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247498088&idx=1&sn=73e8f2177477bcb784e3a007cc56cc0e&chksm=c2d7fee1f5a077f7bf3dddc1a4b69e5fb85d85a8f1ee344665e4b6ce6286d9493decb5b04501&token=2144993046&lang=zh_CN#rd)
+16. [从零开始的大数据技术学习路线指南 (建议收藏)](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247498312&idx=1&sn=a3b4b654b63f2ee6c6a0b2065d4aaf7f&chksm=c2d7fdc1f5a074d72022d6b64c3ea0a8869ed6861d7a9faa696c66af2dc4611f65dc492d1c2a&token=2144993046&lang=zh_CN#rd)
+
+
+
+
+
 
 ###  🥥 中间件
 
@@ -203,31 +211,71 @@
 7. [网易云音乐数仓维度建模实践-模型设计篇](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&tempkey=MTEwM184TW5iS04wSDY1djhaSjduckJ2QTJHbEszVi00SjBOcFZQUkNJby1ReEpIWWtFNURHQ0dKdE9NOHU1TXByMWN6Zy1VOXdwX2xZeFM3T2dWbENWckhuaGM0TzlLUkRWVVY4N1M0bE40dm1ySjd0UFdmcWE0NDhkWDllR0hHb0lPdVdab1VFWEVTUE11YURNOXVwN1lBbjN3UTFUZXM0S3dwNkU1RGhBfn4%3D&chksm=68dbb8705fac31664b48442294a3b4f61175f480f05ea5320a3126c038d99da5669169e346d5&__mpa_temp_link_flag=1&token=1690256264#rd)
 8. [Apache Doris 在京东广告的应用实践 ](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247493960&idx=1&sn=ccfa5073bf7d47eb85cfe9cf2475eecf&chksm=e8dbb19adfac388c36484241ddf78236f8af533ad159870be36c56cb3f528e35529cb28d55d3&token=1073059733&lang=zh_CN#rd)
 9. [猿辅导 x DorisDB：构建统一OLAP平台，全面升级数据分析能力](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247496016&idx=2&sn=ffe549dccf3c72376478a29ba35359cf&chksm=e8dba982dfac20949ebc4acb759f30284b7a9e6f5eb3eed8c0f4e246d3fe4207c8aa3fb15788&token=1693301572&lang=zh_CN#rd)
+10. [电商供应链数仓平台该如何建设？应该注意什么？](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247498832&idx=1&sn=9f64102857e38083e28660ffeaff5cee&chksm=c2d7fbd9f5a072cf9e17a705ebb3d92fce248cb0c253c90f99ee9dd97be1facf374a8679cb77&token=2144993046&lang=zh_CN#rd)
+11. [DorisDB在某二梯队互联网公司的实践](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247498961&idx=1&sn=f7cd3056dca7576ce3bd6c4124854479&chksm=c2d7fb58f5a0724e13b1a947c37b665484e20475896bd204ab8593a39aede141b491f673a9f4&token=2144993046&lang=zh_CN#rd)
 
-###  🥤 超强总结
+
+
+
+
+###  🥤 [超强总结](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247498832&idx=1&sn=9f64102857e38083e28660ffeaff5cee&chksm=c2d7fbd9f5a072cf9e17a705ebb3d92fce248cb0c253c90f99ee9dd97be1facf374a8679cb77&token=2144993046&lang=zh_CN#rd)
 1. [万字详解整个数据仓库建设体系](https://mp.weixin.qq.com/s/EHzya2zscZTnRe0GCVK4cA)
+
 2. [Redis最佳实践：7个维度+43条使用规范，带你彻底玩转Redis | 附实践清单](https://mp.weixin.qq.com/s/WXoyhxF057VcJtncIYzECw)
+
 3. [架构师 | 数据仓库建设灵魂10问](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492069&idx=1&sn=f68def66bfd0354cd2adbbaf14da558e&chksm=e8dbb937dfac3021beb27373dc52d73b05ff0b2e0a1ea831829f608c4b03811a4d5aab23722a&token=1272273277&lang=zh_CN#rd)
+
 4. [推荐一些热门的DevOps工具](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492239&idx=1&sn=47a8d70793326a3a97f61ccb9a4d181e&chksm=e8dbba5ddfac334b53b6c20ffcde7322b8c61106e0c1a2120604731fe0aadefe4ee17386aca6&token=1272273277&lang=zh_CN#rd)
+
 5. [使用 Flink 前需要知道的 10 个『陷阱』](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492303&idx=1&sn=3c86c64c9de9ef72453efac1740a642a&chksm=e8dbba1ddfac330bbb898a54485a3e7bab7366fd884beab134402fc4d9822258e904f2069afa&token=1272273277&lang=zh_CN#rd)
+
 6. [干货 | 实时数仓中的消息队列技术深度对比](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247494119&idx=1&sn=22486e3a4c85063f6e261a91a26226ca&chksm=e8dbb135dfac3823c6c81cf7c68179f6a2907cf10a4c9e002d67b8fb39cc00a3213db891f998&token=2100073657&lang=zh_CN#rd)
+
 7. [面试必备 | 10道海量数据处理，你会几道？](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247494221&idx=1&sn=05fffc2c0353007f1c76db578fc84a69&chksm=e8dbb29fdfac3b897fd3316ccde51a49b108a32a138e7c0ba054943fe2849c34717f531020e1&token=2100073657&lang=zh_CN#rd)
+
 8. [工作四年，分享50个优化代码的妙招](https://mp.weixin.qq.com/s/AKVdTdfbClN_bx4wk54NhA)
+
 9. [使用Redis，你必须知道的21个注意要点](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247495966&idx=1&sn=4e005615a68d1f3a81f19dbfc9da094e&chksm=e8dba9ccdfac20da6b2d78aa4eca9700c107797203368f8cbc9aa62a148549c71ecd1e8a1f24&token=1693301572&lang=zh_CN#rd)
+
 10. [六千字总结:大数据框架(分区，分桶，分片)](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497071&idx=1&sn=0ef89ef6f5fae4b946affec996b2c3e1&chksm=c2d7f2e6f5a07bf06e5f3bd183fec61692328218e765cdc2d4236ef107f84d00b7e449367bd9&token=2075738930&lang=zh_CN#rd)
+
 11. [有了这 27 个Linux 技巧，让你工作效率翻倍！](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496830&idx=1&sn=0ce5729efc6e0120cc6f3fd8bb84d348&chksm=c2d7f3f7f5a07ae1fcc44171c1e1e1fffcd9ef4a75c34a2e3bb040eb49315436cc8e8729aaf3&token=2075738930&lang=zh_CN#rd)
+
 12. [超牛逼！100 个开箱即用的 Shell 脚本，拿好了~](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496656&idx=1&sn=876c92caa1f470e3bd8f0652e36b7157&chksm=c2d7f459f5a07d4fd22b2d6a81dd1aa4cdfb26261b7e0870d15580391099880658aafe8a63e6&token=2075738930&lang=zh_CN#rd)
+
 13. [互联网大厂的秋招干货总结 | 建议收藏](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496522&idx=1&sn=81759a0ccef3d0ecd9255a2c3996b72d&chksm=c2d7f4c3f5a07dd5d8a48bca1bebb5c37cce5114665ebb750e449671828520f0fe251efa3503&token=2075738930&lang=zh_CN#rd)
+
 14. [数仓基础知识的超全概括(建议收藏)！](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497354&idx=1&sn=3044ceb4f4400351122af1f162715562&chksm=c2d7f103f5a0781536f5dbc021c1122783597dfa0fbde602c8cedc408c3de84c3d8b81c0d2e1&token=231732813&lang=zh_CN#rd)
+
 15. [原来 Elasticsearch 还可以这么理解！](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497551&idx=1&sn=bf8c62d61e0a5d08e925bb83051b544a&chksm=c2d7f0c6f5a079d051b7d9440ec566d0a3affe824a79a045420c56510cca76b8a569ed8f46aa&token=231732813&lang=zh_CN#rd)
+
 16. [Flink吐血总结，学习与面试收藏这一篇就够了！！！](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497583&idx=1&sn=8696ee57091a2fe395c93a88847dea54&chksm=c2d7f0e6f5a079f045057fd0a2fc0f94d8304229bde6f14103152c82774b0184f876e4b52b1a&token=231732813&lang=zh_CN#rd)
+
+17. [干货分享 | 4万字全面解读数据中台、数据仓库、数据湖（建议收藏）]()
+
+18. [数仓如何选择计算引擎！(好文建议收藏)](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497987&idx=1&sn=d78ffcdba49a2ee7f4b88bdc64b1fd06&chksm=c2d7fe8af5a0779c2d9360022afee522a4056e8bbb436a794d0462472be37b084452cd4e2b55&token=2144993046&lang=zh_CN#rd)
+
+19. [你的数据倾斜了吗？一文帮你数据处理再均衡](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247498023&idx=1&sn=ba4623e93801342788e5ce5921d9eb1e&chksm=c2d7feaef5a077b890481154cdfae5376824f68f16f9f0b9aed0a629014cf123dcf9b588dfa7&token=2144993046&lang=zh_CN#rd)
+
+20. [大数据那么多调度系统系统，我该选哪个？(干货满满)](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247498138&idx=1&sn=daca374ed3ede3ff1fc32114bb2270a9&chksm=c2d7fe13f5a077058e14cf4df5f1ee275edae6644f258434b5e15a7bf8fb9440d3d2a2fd8344&token=2144993046&lang=zh_CN#rd)
+
+    
+
+
+
+
 
 
 
 ###  ☕ 精华面经
 1. [美团优选大数据开发岗面试真题-附答案详细解析](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247492683&idx=1&sn=6a7483a9ad93493555a52a419b960ed1&chksm=e8dbbc99dfac358f95524c7bc90a4a2dc4699ce376f19b613b2aee984bb03b1a31da9cd8cd7e&token=1777830110&lang=zh_CN#rd)
+2. [8家大厂面经(阿里、腾讯、美团等)](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247498984&idx=1&sn=12d2918f1526a376e34d153a56f22b07&chksm=c2d7fb61f5a07277c3a84f42f6b790dfa6285876c3e933f7151b596ccb14a7b737206d824d65&token=2144993046&lang=zh_CN#rd)
 
-###  🍯 有趣有料
+
+
+
+
+###  🍯 [有趣有料](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247498984&idx=1&sn=12d2918f1526a376e34d153a56f22b07&chksm=c2d7fb61f5a07277c3a84f42f6b790dfa6285876c3e933f7151b596ccb14a7b737206d824d65&token=2144993046&lang=zh_CN#rd)
 1. [ETL和ELT到底有啥区别？？？](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247494017&idx=1&sn=92c3f3991eeece3d092eeaa69bc25e89&chksm=e8dbb153dfac3845510b85da4c583bf3a2343e51b8180f908a43537173cebdbe14277558dbd7&token=1073059733&lang=zh_CN#rd)
 2. [为什么我们选择基于 Flink 搭建实时个性化营销平台？](https://mp.weixin.qq.com/s/451BFoJDbkvlDc0inOukcw)
 3. [以直播平台监控用户弹幕为例详解 Flink CEP](https://mp.weixin.qq.com/s?__biz=MzIzNjM2MDEyNQ==&mid=2247496065&idx=1&sn=fc03486210be0a4bd447761b3b883bd3&chksm=e8dba953dfac204543b0e4ae750af0799b96f626d2de868f31b94151d4d148430dea062b4f7c&token=1693301572&lang=zh_CN#rd)
@@ -237,6 +285,11 @@
 7. [图解Git工作原理](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496767&idx=1&sn=bc90e1c900da05c53451145eed84438c&chksm=c2d7f3b6f5a07aa0a1160919bf67a624495bd1d7540d2b92790d8ce85545055c92844dc62c13&token=2075738930&lang=zh_CN#rd)
 8. [因为一次 Kafka 宕机，我明白了 Kafka 高可用原理！](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247497226&idx=1&sn=4cf0e2e42e46622d865182aca54648e6&chksm=c2d7f183f5a0789563341bb2026bc59024792c2f5da9301023d116a7a63061b1fdc0cf10de33&token=231732813&lang=zh_CN#rd)
 9. [上海有哪些互联网，你都知道么？](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496389&idx=1&sn=5b379ed66f353ce2553dc54fdbb998b6&chksm=c2d7f54cf5a07c5afa3088fcc29be0002a3be894cf1e514a19c8aef35c9202a11d417876bcf4&token=2075738930&lang=zh_CN#rd)
+10. [抖音的服务器究竟有多大](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247498445&idx=1&sn=a15073e033f0e74ccdc48a71e6fd884d&chksm=c2d7fd44f5a074528ddbcc0d35359c777b34b3d1d92f42fb6474168a68d762fa02f779337f9e&token=2144993046&lang=zh_CN#rd)
+
+
+
+
 
 ### 🍹 休闲娱乐
 1. [假如我是超级卷王 ... ](https://mp.weixin.qq.com/s?__biz=Mzk0MTI0OTI1NA==&mid=2247496630&idx=1&sn=ee9cd0aab500c279938326bf8ae5401c&chksm=c2d7f43ff5a07d2990f8f966078ab254b3d1aa73d83f8875f0dcf597770a047230842c3efa51&token=2075738930&lang=zh_CN#rd)

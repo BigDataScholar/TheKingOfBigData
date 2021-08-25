@@ -91,21 +91,6 @@
       <recent name="F:\github\TheKingOfBigData\note" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -184,21 +169,8 @@
       <workItem from="1624507988755" duration="1799000" />
       <workItem from="1626282362259" duration="1063000" />
       <workItem from="1626919237222" duration="1338000" />
-      <workItem from="1627286897259" duration="760000" />
-    </task>
-    <task id="LOCAL-00053" summary="更新readme">
-      <created>1613715075364</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1613715075364</updated>
-    </task>
-    <task id="LOCAL-00054" summary="更新readme和实战文章">
-      <created>1613904430594</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1613904430595</updated>
+      <workItem from="1627286897259" duration="1698000" />
+      <workItem from="1629871552880" duration="2116000" />
     </task>
     <task id="LOCAL-00055" summary="更新readme">
       <created>1613904539132</created>
@@ -529,7 +501,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624340468453</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="更新 readme 文章链接">
+      <created>1627288167609</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1627288167609</updated>
+    </task>
+    <task id="LOCAL-00103" summary="更新 readme 文章链接">
+      <created>1627288269418</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1627288269418</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
